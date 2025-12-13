@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ch3_1",
+    "chapter": "ch3",
+    "question": "Chương 3 trong giáo trình Triết học Mác – Lênin thường gắn với nội dung nào?",
+    "options": [
+      "Chủ nghĩa duy vật lịch sử",
+      "Chủ nghĩa duy vật biện chứng",
+      "Lý luận nhận thức",
+      "Logic hình thức"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chương 3 thường là 'Chủ nghĩa duy vật lịch sử'."
+  },
+  {
+    "id": "ch3_2",
+    "chapter": "ch3",
+    "question": "Theo quan điểm duy vật lịch sử, nhân tố nào giữ vai trò quyết định trong sự phát triển xã hội?",
+    "options": [
+      "Ý thức xã hội",
+      "Tình cảm cá nhân",
+      "Phương thức sản xuất vật chất",
+      "Ngẫu nhiên lịch sử"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phương thức sản xuất vật chất (LLSX + QHSX) giữ vai trò quyết định."
+  }
+]

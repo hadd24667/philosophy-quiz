@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ch2_1",
+    "chapter": "ch2",
+    "question": "Theo định nghĩa của V.I. Lênin, vật chất là gì?",
+    "options": [
+      "Mọi thứ có khối lượng",
+      "Phạm trù triết học chỉ thực tại khách quan",
+      "Chỉ tồn tại trong tư duy",
+      "Năng lượng thuần tuý"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nhấn mạnh: thực tại khách quan, tồn tại không lệ thuộc vào cảm giác."
+  },
+  {
+    "id": "ch2_2",
+    "chapter": "ch2",
+    "question": "Trong các hình thức vận động, hình thức nào được coi là cao nhất?",
+    "options": [
+      "Cơ học",
+      "Vật lý",
+      "Sinh học",
+      "Xã hội"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vận động xã hội là hình thức cao nhất."
+  }
+]

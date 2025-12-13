@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "ch1_1",
+    "chapter": "ch1",
+    "question": "Triết học ra đời vào khoảng thời gian nào (xấp xỉ)?",
+    "options": [
+      "TK XV–XVI",
+      "TK VIII–VI TCN",
+      "TK I–II",
+      "TK XIX–XX"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_2",
+    "chapter": "ch1",
+    "question": "Triết học ra đời sớm nhất ở đâu?",
+    "options": [
+      "Chỉ ở phương Tây",
+      "Chỉ ở phương Đông",
+      "Cả phương Đông và phương Tây (gần như cùng thời gian)",
+      "Chỉ ở châu Âu hiện đại"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch1_3",
+    "chapter": "ch1",
+    "question": "Theo cách hiểu từ nguyên phương Tây, “philosophia” gần nghĩa nhất là:",
+    "options": [
+      "Ghét bỏ trí tuệ",
+      "Yêu mến sự thông thái",
+      "Sợ hãi chân lý",
+      "Chỉ là kỹ năng tranh luận"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_4",
+    "chapter": "ch1",
+    "question": "Theo cách hiểu phổ biến phương Đông, “triết” nhấn mạnh:",
+    "options": [
+      "Hiểu biết sâu rộng về thiên–địa–nhân",
+      "Kỹ thuật đo đạc tự nhiên",
+      "Chỉ nghiên cứu siêu nhiên",
+      "Chỉ nghiên cứu ngôn ngữ học"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_5",
+    "chapter": "ch1",
+    "question": "Trong giáo trình, triết học được xem là:",
+    "options": [
+      "Tri thức kinh nghiệm thuần túy",
+      "Dạng tri thức lý luận xuất hiện sớm nhất",
+      "Một nhánh của tôn giáo",
+      "Chỉ là ý kiến cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_6",
+    "chapter": "ch1",
+    "question": "Triết học với tư cách hình thái ý thức xã hội có mấy nguồn gốc chính?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_7",
+    "chapter": "ch1",
+    "question": "Nguồn gốc nhận thức của triết học gắn với điều gì?",
+    "options": [
+      "Nhu cầu nhận thức thế giới và sự phát triển tư duy trừu tượng",
+      "Sự xuất hiện nhà nước hiện đại",
+      "Sự ra đời máy hơi nước",
+      "Sự xuất hiện internet"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_8",
+    "chapter": "ch1",
+    "question": "Nguồn gốc xã hội của triết học gắn với điều kiện nào?",
+    "options": [
+      "Xã hội nguyên thủy chưa phân công lao động",
+      "Có phân công lao động, xuất hiện giai cấp và nhà nước",
+      "Chỉ cần có tôn giáo",
+      "Chỉ cần có chiến tranh"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_9",
+    "chapter": "ch1",
+    "question": "Triết học có vai trò “hạt nhân lý luận” của:",
+    "options": [
+      "Thế giới quan",
+      "Nghệ thuật",
+      "Phong tục tập quán",
+      "Tâm lý học cá nhân"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_10",
+    "chapter": "ch1",
+    "question": "Thế giới quan được hiểu đúng nhất là:",
+    "options": [
+      "Tập hợp mẹo sống truyền miệng",
+      "Hệ thống tri thức, quan điểm, niềm tin, lý tưởng về thế giới và vị trí con người trong thế giới đó",
+      "Chỉ là niềm tin tôn giáo",
+      "Chỉ là kiến thức khoa học tự nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_11",
+    "chapter": "ch1",
+    "question": "Vấn đề cơ bản của triết học là vấn đề về:",
+    "options": [
+      "Quan hệ giữa logic và ngôn ngữ",
+      "Quan hệ giữa tư duy và tồn tại (vật chất và ý thức)",
+      "Quan hệ giữa cá nhân và cộng đồng",
+      "Quan hệ giữa đạo đức và pháp luật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_12",
+    "chapter": "ch1",
+    "question": "Vấn đề cơ bản của triết học có mấy mặt?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_13",
+    "chapter": "ch1",
+    "question": "Mặt bản thể của vấn đề cơ bản hỏi về:",
+    "options": [
+      "Con người có nhận thức được thế giới không",
+      "Vật chất và ý thức cái nào có trước, cái nào quyết định cái nào",
+      "Chuẩn mực đạo đức",
+      "Cấu trúc nhà nước"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_14",
+    "chapter": "ch1",
+    "question": "Mặt nhận thức của vấn đề cơ bản hỏi về:",
+    "options": [
+      "Con người có khả năng nhận thức thế giới hay không",
+      "Giai cấp nào lãnh đạo xã hội",
+      "Tự nhiên có trước hay sau xã hội",
+      "Lịch sử bắt đầu từ khi nào"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_15",
+    "chapter": "ch1",
+    "question": "Trường phái trả lời “vật chất có trước, ý thức có sau” là:",
+    "options": [
+      "Chủ nghĩa duy tâm",
+      "Chủ nghĩa duy vật",
+      "Thuyết bất khả tri",
+      "Chủ nghĩa hoài nghi"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_16",
+    "chapter": "ch1",
+    "question": "Trường phái trả lời “ý thức có trước, vật chất có sau” là:",
+    "options": [
+      "Chủ nghĩa duy vật",
+      "Chủ nghĩa duy tâm",
+      "Thuyết khả tri",
+      "Chủ nghĩa hiện thực"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_17",
+    "chapter": "ch1",
+    "question": "Thừa nhận thế giới có thể nhận thức được là lập trường:",
+    "options": [
+      "Bất khả tri",
+      "Khả tri",
+      "Hoài nghi tuyệt đối",
+      "Phi lý tính"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_18",
+    "chapter": "ch1",
+    "question": "Phương pháp xem xét sự vật trong mối liên hệ, vận động, phát triển là:",
+    "options": [
+      "Siêu hình",
+      "Biện chứng",
+      "Chiết trung",
+      "Ngụy biện"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_19",
+    "chapter": "ch1",
+    "question": "Phương pháp xem xét sự vật cô lập, tĩnh tại, phiến diện thường gọi là:",
+    "options": [
+      "Biện chứng",
+      "Siêu hình",
+      "Thực chứng",
+      "Duy nghiệm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_20",
+    "chapter": "ch1",
+    "question": "“Triết học luôn gắn liền tính đảng” gần nhất nhấn mạnh điều gì?",
+    "options": [
+      "Triết học không liên quan xã hội",
+      "Triết học luôn phục vụ lợi ích một lực lượng/giai cấp nhất định",
+      "Triết học chỉ nghiên cứu tự nhiên",
+      "Triết học chỉ là khoa học kỹ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_21",
+    "chapter": "ch1",
+    "question": "Triết học thời cổ đại thường được xem là:",
+    "options": [
+      "Khoa học của mọi khoa học (triết học tự nhiên)",
+      "Khoa học vi mô",
+      "Thần học thuần túy",
+      "Tâm lý học ứng dụng"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_22",
+    "chapter": "ch1",
+    "question": "Triết học Tây Âu trung cổ thường mang đặc trưng:",
+    "options": [
+      "Giải phóng khỏi thần học",
+      "Bị thần học chi phối (kinh viện)",
+      "Thuần duy vật",
+      "Thuần khoa học thực nghiệm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_23",
+    "chapter": "ch1",
+    "question": "Một đặc điểm quan trọng của triết học Mác – Lênin là:",
+    "options": [
+      "Duy tâm thần bí",
+      "Thống nhất giữa chủ nghĩa duy vật và phép biện chứng",
+      "Chỉ quan tâm đạo đức cá nhân",
+      "Phủ nhận vai trò thực tiễn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_24",
+    "chapter": "ch1",
+    "question": "Triết học Mác ra đời vào khoảng:",
+    "options": [
+      "Thế kỷ XVII",
+      "Thế kỷ XIX (những năm 40)",
+      "Thế kỷ XV",
+      "Thế kỷ XXI"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_25",
+    "chapter": "ch1",
+    "question": "“Cuộc cách mạng trong triết học” do C. Mác và Ph. Ăngghen thực hiện là vì:",
+    "options": [
+      "Lần đầu đưa tôn giáo vào triết học",
+      "Khắc phục hạn chế của duy vật cũ và biện chứng duy tâm, đưa triết học gắn với thực tiễn",
+      "Phủ định hoàn toàn khoa học tự nhiên",
+      "Trở về tư duy huyền thoại"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_26",
+    "chapter": "ch1",
+    "question": "Điểm đúng nhất khi nói “triết học ra đời không ngẫu nhiên” là:",
+    "options": [
+      "Do một thiên tài tự nghĩ ra",
+      "Do nhu cầu thực tiễn–nhận thức của con người và điều kiện xã hội nhất định",
+      "Do nhà nước bắt buộc",
+      "Do tôn giáo sáng tạo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_27",
+    "chapter": "ch1",
+    "question": "Khi phân công lao động xã hội phát triển, lao động trí óc tách khỏi lao động chân tay dẫn tới:",
+    "options": [
+      "Triết học biến mất",
+      "Xuất hiện tầng lớp trí thức có điều kiện hệ thống hóa tri thức thành học thuyết",
+      "Không có thay đổi gì",
+      "Chỉ xuất hiện nghệ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_28",
+    "chapter": "ch1",
+    "question": "“Đối tượng của triết học” theo cách hiểu của giáo trình/slide là:",
+    "options": [
+      "Mọi sự vật riêng lẻ",
+      "Các quan hệ phổ biến và quy luật chung nhất của tự nhiên, xã hội và tư duy",
+      "Chỉ đời sống tinh thần",
+      "Chỉ giới tự nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_29",
+    "chapter": "ch1",
+    "question": "Sự khác nhau cơ bản giữa triết học và khoa học cụ thể là:",
+    "options": [
+      "Triết học nghiên cứu quy luật chung nhất; khoa học cụ thể nghiên cứu lĩnh vực/bộ phận cụ thể",
+      "Triết học không có tính lý luận",
+      "Khoa học cụ thể chỉ dựa niềm tin",
+      "Hai cái hoàn toàn giống nhau"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_30",
+    "chapter": "ch1",
+    "question": "Nếu một học thuyết cho rằng “thế giới vật chất tồn tại khách quan, độc lập ý thức”, thì thuộc:",
+    "options": [
+      "Duy tâm chủ quan",
+      "Duy vật",
+      "Bất khả tri",
+      "Nhị nguyên luận"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_31",
+    "chapter": "ch1",
+    "question": "Nếu học thuyết cho rằng “thế giới tồn tại là do cảm giác của tôi”, gần với:",
+    "options": [
+      "Duy vật chất phác",
+      "Duy tâm chủ quan",
+      "Duy tâm khách quan",
+      "Duy vật biện chứng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_32",
+    "chapter": "ch1",
+    "question": "Nếu học thuyết cho rằng “một tinh thần/ý niệm tuyệt đối sinh ra thế giới”, gần với:",
+    "options": [
+      "Duy tâm khách quan",
+      "Duy vật tầm thường",
+      "Bất khả tri",
+      "Hoài nghi"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_33",
+    "chapter": "ch1",
+    "question": "Thuyết nhị nguyên thường cho rằng:",
+    "options": [
+      "Chỉ có vật chất",
+      "Chỉ có ý thức",
+      "Vật chất và ý thức tồn tại song song, độc lập",
+      "Không thể nói gì về thế giới"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch1_34",
+    "chapter": "ch1",
+    "question": "Thuyết bất khả tri trả lời mặt nhận thức như thế nào?",
+    "options": [
+      "Con người nhận thức được thế giới đầy đủ, tuyệt đối",
+      "Con người không thể (hoặc không thể biết chắc) nhận thức được bản chất thế giới",
+      "Nhận thức chỉ là cảm giác chủ quan vô nghĩa",
+      "Nhận thức là do thượng đế ban"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_35",
+    "chapter": "ch1",
+    "question": "Trong phương pháp siêu hình, sự vật thường được nhìn nhận:",
+    "options": [
+      "Trong liên hệ phổ biến, phát triển",
+      "Cô lập, bất biến, chỉ biến đổi về lượng",
+      "Trong mâu thuẫn nội tại",
+      "Trong sự chuyển hóa lượng–chất"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_36",
+    "chapter": "ch1",
+    "question": "Trong phương pháp biện chứng, nguồn gốc của vận động–phát triển được nhấn mạnh là:",
+    "options": [
+      "Do lực lượng siêu nhiên bên ngoài",
+      "Do mâu thuẫn nội tại của sự vật",
+      "Do may rủi",
+      "Do ý chí cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_37",
+    "chapter": "ch1",
+    "question": "Triết học Mác ra đời gắn với điều kiện kinh tế–xã hội nào nổi bật?",
+    "options": [
+      "Cách mạng công nghiệp và sự phát triển phương thức sản xuất tư bản chủ nghĩa",
+      "Xã hội nguyên thủy",
+      "Chế độ nô lệ cổ đại",
+      "Thời đại số"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_38",
+    "chapter": "ch1",
+    "question": "Động lực xã hội trực tiếp thúc đẩy sự ra đời triết học Mác theo giáo trình là:",
+    "options": [
+      "Thực tiễn đấu tranh giai cấp vô sản chống tư sản",
+      "Mâu thuẫn nông dân–địa chủ phong kiến thời cổ đại",
+      "Xung đột tôn giáo",
+      "Chiến tranh bộ tộc"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_39",
+    "chapter": "ch1",
+    "question": "Nguồn gốc lý luận quan trọng để hình thành triết học Mác gồm (chọn đúng nhất):",
+    "options": [
+      "Chỉ triết học cổ đại Hy Lạp",
+      "Triết học cổ điển Đức + Kinh tế chính trị cổ điển Anh + CNXH không tưởng Pháp–Anh",
+      "Chỉ khoa học tự nhiên thế kỷ XX",
+      "Chỉ tư tưởng phương Đông"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_40",
+    "chapter": "ch1",
+    "question": "Ý nghĩa “thống nhất giữa chủ nghĩa duy vật và phép biện chứng” trong triết học Mác là:",
+    "options": [
+      "Duy vật vẫn là duy vật siêu hình, không đổi",
+      "Biện chứng trở thành biện chứng duy vật, duy vật trở thành duy vật biện chứng",
+      "Biện chứng và duy vật tách rời nhau",
+      "Duy vật bị thay thế bởi duy tâm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_41",
+    "chapter": "ch1",
+    "question": "Vai trò chung của triết học đối với thế giới quan thể hiện ở chỗ:",
+    "options": [
+      "Triết học thay thế mọi khoa học",
+      "Triết học định hướng nguyên tắc, thái độ, giá trị trong nhận thức và thực tiễn",
+      "Triết học chỉ để tranh luận",
+      "Triết học không liên quan hành động"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_42",
+    "chapter": "ch1",
+    "question": "Nhận định đúng nhất về “triết học và khoa học tự nhiên”:",
+    "options": [
+      "Khoa học tự nhiên không bao giờ bị triết học chi phối",
+      "Dù thừa nhận hay không, hoạt động khoa học vẫn chịu sự chi phối của một thế giới quan/triết học nhất định",
+      "Triết học phủ định vai trò khoa học tự nhiên",
+      "Khoa học tự nhiên chỉ dựa trên tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_43",
+    "chapter": "ch1",
+    "question": "Khi nói “triết học là hệ thống quan điểm lý luận chung nhất…”, yếu tố “hệ thống” nhấn mạnh:",
+    "options": [
+      "Các ý kiến rời rạc",
+      "Tính khái quát và liên kết logic trong một chỉnh thể",
+      "Tính cảm tính",
+      "Tính ngẫu hứng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_44",
+    "chapter": "ch1",
+    "question": "Thế giới quan có thể gồm các yếu tố nào (chọn đúng nhất):",
+    "options": [
+      "Chỉ tri thức",
+      "Tri thức, quan điểm, tình cảm, niềm tin, lý tưởng",
+      "Chỉ niềm tin",
+      "Chỉ lý tưởng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_45",
+    "chapter": "ch1",
+    "question": "“Tính đảng” của triết học thể hiện rõ nhất ở:",
+    "options": [
+      "Triết học không có lập trường",
+      "Triết học thể hiện lợi ích, lập trường giai cấp/lực lượng xã hội nhất định",
+      "Triết học chỉ nghiên cứu logic hình thức",
+      "Triết học chỉ mô tả tự nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_46",
+    "chapter": "ch1",
+    "question": "Khi giải quyết mặt bản thể, nếu thừa nhận vật chất có trước, ý thức có sau thì đồng thời thường dẫn đến:",
+    "options": [
+      "Lập trường duy vật",
+      "Lập trường duy tâm",
+      "Lập trường bất khả tri",
+      "Lập trường nhị nguyên"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_47",
+    "chapter": "ch1",
+    "question": "Khi giải quyết mặt nhận thức, nếu phủ nhận khả năng nhận thức thế giới của con người thì thuộc:",
+    "options": [
+      "Khả tri",
+      "Bất khả tri",
+      "Duy vật biện chứng",
+      "Duy vật chất phác"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_48",
+    "chapter": "ch1",
+    "question": "Điểm khác cơ bản giữa biện chứng và siêu hình là:",
+    "options": [
+      "Biện chứng phủ nhận vận động",
+      "Siêu hình xem xét sự vật trong liên hệ và phát triển",
+      "Biện chứng xem xét trong liên hệ, phát triển; siêu hình thiên về cô lập, tĩnh tại",
+      "Không có khác nhau"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch1_49",
+    "chapter": "ch1",
+    "question": "Nội dung đúng nhất của “vấn đề cơ bản của triết học” là:",
+    "options": [
+      "Vấn đề cái đẹp",
+      "Vấn đề quan hệ giữa vật chất và ý thức + khả năng nhận thức thế giới",
+      "Vấn đề đạo đức",
+      "Vấn đề nhà nước"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_50",
+    "chapter": "ch1",
+    "question": "Triết học cổ điển Đức có ý nghĩa gì đối với sự hình thành triết học Mác?",
+    "options": [
+      "Không liên quan",
+      "Cung cấp hạt nhân hợp lý của phép biện chứng (cần cải tạo trên lập trường duy vật)",
+      "Chỉ cung cấp duy vật siêu hình",
+      "Chỉ cung cấp tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_51",
+    "chapter": "ch1",
+    "question": "Để “biện chứng” trở thành “biện chứng duy vật”, điều quan trọng là:",
+    "options": [
+      "Giữ nguyên duy tâm",
+      "Gắn với lập trường duy vật, loại bỏ thần bí/tư biện duy tâm",
+      "Loại bỏ mọi khoa học",
+      "Đồng nhất với siêu hình"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_52",
+    "chapter": "ch1",
+    "question": "Phát biểu đúng về “đối tượng của triết học qua các thời kỳ” là:",
+    "options": [
+      "Luôn giống hệt nhau",
+      "Có biến đổi lịch sử: cổ đại thiên về “khoa học của mọi khoa học”, trung cổ chịu thần học chi phối…",
+      "Chỉ thay đổi ở thế kỷ XXI",
+      "Không phụ thuộc bối cảnh xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_53",
+    "chapter": "ch1",
+    "question": "Chức năng thế giới quan của triết học thể hiện ở:",
+    "options": [
+      "Cung cấp niềm tin mù quáng",
+      "Hình thành hệ quan điểm định hướng con người nhìn thế giới và vị trí của mình",
+      "Chỉ dạy kỹ năng tranh luận",
+      "Chỉ cung cấp tri thức kỹ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_54",
+    "chapter": "ch1",
+    "question": "Chức năng phương pháp luận của triết học thể hiện ở:",
+    "options": [
+      "Đưa ra hệ nguyên tắc, phương pháp chung cho nhận thức và thực tiễn",
+      "Chỉ nêu cảm xúc cá nhân",
+      "Chỉ đưa ra ví dụ lịch sử",
+      "Không liên quan khoa học"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_55",
+    "chapter": "ch1",
+    "question": "Khi nói triết học Mác – Lênin là khoa học và cách mạng, “khoa học” nhấn mạnh:",
+    "options": [
+      "Dựa trên niềm tin chủ quan",
+      "Dựa trên thực tiễn và khái quát quy luật khách quan",
+      "Dựa trên thần học",
+      "Dựa trên truyền thuyết"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_56",
+    "chapter": "ch1",
+    "question": "Điểm “cách mạng” của triết học Mác thể hiện rõ nhất ở:",
+    "options": [
+      "Chỉ giải thích thế giới",
+      "Gắn chặt với thực tiễn cải tạo thế giới và lập trường của giai cấp vô sản",
+      "Trở về tư duy huyền thoại",
+      "Đồng nhất triết học với tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_57",
+    "chapter": "ch1",
+    "question": "Nếu một người vừa nói “vật chất tồn tại khách quan”, nhưng lại cho rằng “ta không thể biết gì về thế giới”, thì lập trường kết hợp gần nhất là:",
+    "options": [
+      "Duy vật + khả tri",
+      "Duy vật + bất khả tri",
+      "Duy tâm + khả tri",
+      "Duy tâm + bất khả tri"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_58",
+    "chapter": "ch1",
+    "question": "Một quan điểm cho rằng “ý thức quyết định vật chất” nhưng vẫn khẳng định “con người nhận thức được thế giới” thì thuộc:",
+    "options": [
+      "Duy tâm + khả tri",
+      "Duy tâm + bất khả tri",
+      "Duy vật + khả tri",
+      "Duy vật + bất khả tri"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_59",
+    "chapter": "ch1",
+    "question": "Phân biệt đúng “duy tâm chủ quan” và “duy tâm khách quan” là:",
+    "options": [
+      "Chủ quan: tinh thần cá nhân/cảm giác; khách quan: tinh thần/ý niệm tồn tại độc lập cá nhân",
+      "Chủ quan: vật chất; khách quan: ý thức",
+      "Chủ quan: khoa học; khách quan: tôn giáo",
+      "Không thể phân biệt"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_60",
+    "chapter": "ch1",
+    "question": "Triết học Mác khắc phục hạn chế lớn của chủ nghĩa duy vật cũ chủ yếu ở điểm:",
+    "options": [
+      "Duy vật cũ hoàn toàn biện chứng",
+      "Duy vật cũ còn siêu hình, máy móc, thiếu quan điểm phát triển và thực tiễn",
+      "Duy vật cũ là duy tâm",
+      "Duy vật cũ phủ nhận tự nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_61",
+    "chapter": "ch1",
+    "question": "Triết học Mác khắc phục hạn chế lớn của phép biện chứng duy tâm cổ điển chủ yếu ở:",
+    "options": [
+      "Giữ nguyên nền tảng duy tâm",
+      "Đặt phép biện chứng trên lập trường duy vật, loại bỏ thần bí",
+      "Phủ nhận mâu thuẫn",
+      "Chỉ dùng biện chứng để tranh luận"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_62",
+    "chapter": "ch1",
+    "question": "Nêu đúng nhất vai trò của triết học đối với hoạt động khoa học theo tinh thần giáo trình:",
+    "options": [
+      "Nhà khoa học hoàn toàn không cần thế giới quan",
+      "Nhà khoa học luôn chịu chi phối bởi một triết học nào đó; vấn đề là triết học đúng hay sai",
+      "Triết học cản trở khoa học",
+      "Triết học thay thế thí nghiệm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_63",
+    "chapter": "ch1",
+    "question": "Nhận định đúng về “tính giai cấp” của triết học là:",
+    "options": [
+      "Chỉ triết học Mác mới có tính giai cấp",
+      "Triết học nói chung, trong điều kiện xã hội có giai cấp, thường mang dấu ấn giai cấp và tính đảng",
+      "Triết học hoàn toàn trung tính",
+      "Triết học chỉ là sở thích cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_64",
+    "chapter": "ch1",
+    "question": "Trong hai mặt của vấn đề cơ bản, mặt nào quyết định việc phân chia các trường phái lớn duy vật–duy tâm?",
+    "options": [
+      "Mặt nhận thức",
+      "Mặt bản thể",
+      "Cả hai như nhau",
+      "Không mặt nào"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_65",
+    "chapter": "ch1",
+    "question": "Trong hai mặt của vấn đề cơ bản, mặt nào thường quyết định phân chia khả tri–bất khả tri?",
+    "options": [
+      "Mặt bản thể",
+      "Mặt nhận thức",
+      "Cả hai như nhau",
+      "Không mặt nào"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_66",
+    "chapter": "ch1",
+    "question": "“Triết học là hạt nhân lý luận của thế giới quan” vì:",
+    "options": [
+      "Triết học tạo ra mọi cảm xúc",
+      "Triết học cung cấp hệ quan điểm khái quát nhất, định hướng cho cách nhìn và hành động",
+      "Triết học chỉ nói về đạo đức",
+      "Triết học chỉ là tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_67",
+    "chapter": "ch1",
+    "question": "Nếu một người xem mọi biến đổi chỉ là “tăng/giảm về lượng”, phủ nhận bước nhảy chất, quan điểm đó thiên về:",
+    "options": [
+      "Biện chứng",
+      "Siêu hình",
+      "Duy vật biện chứng",
+      "Khả tri"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_68",
+    "chapter": "ch1",
+    "question": "Nếu một người coi mâu thuẫn chỉ là “sai lầm chủ quan”, không phải nguồn gốc phát triển của sự vật, thì thiên về:",
+    "options": [
+      "Biện chứng",
+      "Siêu hình",
+      "Duy vật biện chứng",
+      "Khả tri"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_69",
+    "chapter": "ch1",
+    "question": "Chọn nhận định phù hợp nhất với quan điểm biện chứng:",
+    "options": [
+      "Sự vật tồn tại biệt lập",
+      "Sự phát triển là đường thẳng đơn giản",
+      "Sự vật tồn tại trong mối liên hệ, phát triển do giải quyết mâu thuẫn",
+      "Không có quy luật phát triển"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch1_70",
+    "chapter": "ch1",
+    "question": "“Đối tượng của triết học” (hiện đại theo giáo trình) nhấn mạnh cấp độ:",
+    "options": [
+      "Sự vật cá biệt",
+      "Quy luật chung nhất, quan hệ phổ biến của tự nhiên–xã hội–tư duy",
+      "Chỉ thực nghiệm phòng thí nghiệm",
+      "Chỉ niềm tin tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_71",
+    "chapter": "ch1",
+    "question": "Trong các yếu tố sau, yếu tố nào làm triết học có khả năng định hướng hành động mạnh nhất?",
+    "options": [
+      "Niềm tin, lý tưởng (trong cấu trúc thế giới quan)",
+      "Tin đồn",
+      "Trực giác ngẫu nhiên",
+      "Thói quen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_72",
+    "chapter": "ch1",
+    "question": "Khi nói triết học Mác – Lênin là “cách mạng”, điều đó không chỉ là nội dung mà còn là:",
+    "options": [
+      "Màu sắc ngôn từ",
+      "Lập trường, phương pháp, gắn với cải tạo hiện thực",
+      "Thái độ trung lập",
+      "Phủ nhận đấu tranh xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_73",
+    "chapter": "ch1",
+    "question": "Nếu một quan điểm vừa thừa nhận “có thế giới vật chất khách quan”, vừa cho rằng “ý thức là cái quyết định cuối cùng”, thì có dấu hiệu:",
+    "options": [
+      "Nhất quán duy vật",
+      "Nhất quán duy tâm",
+      "Không nhất quán/pha trộn (dễ rơi vào nhị nguyên hoặc mâu thuẫn lập trường)",
+      "Chắc chắn là khả tri"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch1_74",
+    "chapter": "ch1",
+    "question": "Cái “điểm xuất phát” mà triết học phải giải quyết trước khi giải quyết các vấn đề khác là:",
+    "options": [
+      "Thế nào là cái đẹp",
+      "Mối quan hệ giữa vật chất và ý thức",
+      "Lịch sử nhà nước",
+      "Phân loại khoa học"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_75",
+    "chapter": "ch1",
+    "question": "Điều kiện chủ quan quan trọng để triết học Mác ra đời là:",
+    "options": [
+      "Ý muốn của tôn giáo",
+      "Thiên tài và hoạt động lý luận–thực tiễn của C. Mác và Ph. Ăngghen",
+      "Sự ngẫu nhiên",
+      "Sự ưu tiên của giới quý tộc"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_76",
+    "chapter": "ch1",
+    "question": "Chọn câu đúng nhất về sự kế thừa của triết học Mác:",
+    "options": [
+      "Sao chép nguyên xi triết học cũ",
+      "Kế thừa có phê phán và cải tạo những hạt nhân hợp lý",
+      "Phủ định sạch trơn mọi triết học trước",
+      "Chỉ kế thừa tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_77",
+    "chapter": "ch1",
+    "question": "Điểm nhấn mạnh “triết học chi phối nhà khoa học” thường nhằm cảnh báo điều gì?",
+    "options": [
+      "Cứ làm khoa học là đủ",
+      "Không thể tránh thế giới quan; cần lựa chọn thế giới quan khoa học, tránh triết học tồi tệ/phiến diện",
+      "Triết học làm giảm sáng tạo",
+      "Khoa học là sản phẩm niềm tin"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_78",
+    "chapter": "ch1",
+    "question": "Khi một người cho rằng “đối tượng nhận thức huyền bí… rốt cuộc vẫn không nằm ngoài vật chất và ý thức”, nhận định đó phục vụ cho:",
+    "options": [
+      "Khẳng định vấn đề cơ bản của triết học có tính nền tảng",
+      "Phủ định vấn đề cơ bản",
+      "Khẳng định bất khả tri",
+      "Khẳng định nhị nguyên"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch1_79",
+    "chapter": "ch1",
+    "question": "Chọn phương án mô tả đúng nhất về mối quan hệ triết học – thế giới quan:",
+    "options": [
+      "Thế giới quan có thể tồn tại mà không cần triết học",
+      "Triết học là hạt nhân lý luận chi phối thế giới quan, dù người ta thừa nhận hay không",
+      "Thế giới quan chỉ là tôn giáo",
+      "Triết học chỉ là nghệ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_80",
+    "chapter": "ch1",
+    "question": "Chọn nhận định đúng nhất về “tính hệ thống” của triết học so với tri thức đời thường:",
+    "options": [
+      "Tri thức đời thường hệ thống hơn",
+      "Triết học hệ thống hóa ở trình độ khái quát cao, có cấu trúc lý luận",
+      "Triết học chỉ là kinh nghiệm vụn vặt",
+      "Triết học là cảm xúc"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_81",
+    "chapter": "ch1",
+    "question": "Nếu bạn muốn phân loại một học thuyết thuộc duy vật hay duy tâm, bạn cần xem học thuyết đó trả lời gì cho câu hỏi:",
+    "options": [
+      "Con người có nhận thức được thế giới không",
+      "Vật chất hay ý thức cái nào có trước, cái nào quyết định cái nào",
+      "Xã hội có giai cấp không",
+      "Khoa học phát triển khi nào"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_82",
+    "chapter": "ch1",
+    "question": "Nếu bạn muốn phân loại một học thuyết thuộc khả tri hay bất khả tri, bạn cần xem học thuyết đó trả lời gì cho câu hỏi:",
+    "options": [
+      "Vật chất có trước hay ý thức có trước",
+      "Con người có khả năng nhận thức thế giới hay không",
+      "Nhà nước ra đời khi nào",
+      "Thế giới có hữu hạn không"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_83",
+    "chapter": "ch1",
+    "question": "Chọn phương án đúng nhất: “Biện chứng” là đối lập tuyệt đối với “siêu hình” ở phương diện:",
+    "options": [
+      "Nội dung nghiên cứu (chỉ tự nhiên)",
+      "Cách nhìn và phương pháp xem xét sự vật (liên hệ–phát triển vs cô lập–tĩnh tại)",
+      "Ngôn ngữ sử dụng",
+      "Độ dài tác phẩm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_84",
+    "chapter": "ch1",
+    "question": "Khi nói triết học Mác – Lênin có vai trò trong đời sống xã hội, trọng tâm trực tiếp nhất là:",
+    "options": [
+      "Trang trí kiến thức",
+      "Cung cấp thế giới quan và phương pháp luận khoa học cho nhận thức và thực tiễn",
+      "Thay thế pháp luật",
+      "Thay thế đạo đức"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch1_85",
+    "chapter": "ch1",
+    "question": "Một người “phủ nhận triết học” nhưng khi hành động lại dựa vào những niềm tin/quan điểm không kiểm chứng, theo tinh thần giáo trình thì người đó:",
+    "options": [
+      "Thật sự không bị triết học chi phối",
+      "Vẫn bị chi phối bởi một thứ triết học nào đó (thường là “tàn tích thông tục hóa”)",
+      "Chỉ bị chi phối bởi khoa học",
+      "Không thể xác định"
+    ],
+    "answerIndex": 1
+  }
+]
