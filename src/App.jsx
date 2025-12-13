@@ -63,7 +63,7 @@ function Hero({ onQuickStart }) {
         <div className="rounded-3xl bg-gradient-to-br from-blue-600 via-sky-500 to-cyan-400 text-white shadow-soft overflow-hidden">
           <div className="p-7 md:p-8">
             <div className="inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-sm font-semibold">
-              <Sparkles className="h-4 w-4" /> Hiển thị đúng/sai ngay
+              <Sparkles className="h-4 w-4" /> Hạnh hehehe chúc anh em thi tốt!
             </div>
             <h1 className="mt-4 text-3xl md:text-4xl font-black leading-tight">
               Ôn thi trắc nghiệm Triết học
@@ -71,6 +71,7 @@ function Hero({ onQuickStart }) {
             </h1>
             <p className="mt-4 text-white/90 leading-relaxed">
               Chọn đáp án → biết đúng/sai ngay. Làm xong có tổng kết + danh sách câu đúng/sai để review.
+              Đáp án generate từ ChatGPT nên các bạn nhớ kiểm tra kỹ lại nhé!
             </p>
             <div className="mt-7">
               <Button variant="secondary" className="bg-white text-blue-700 hover:bg-white/95 focus:ring-white/30" onClick={onQuickStart}>
