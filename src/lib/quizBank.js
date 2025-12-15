@@ -2,6 +2,7 @@ export const QUIZ_BANK = {
   ch1: { label: "Chương 1", files: ["/quizzes/ch1.json"] },
   ch2: { label: "Chương 2", files: ["/quizzes/ch2.json"] },
   ch3: { label: "Chương 3", files: ["/quizzes/ch3.json"] },
+  diemA: { label: "Điểm A", files: ["/quizzes/DiemA.json"] },
   mixed: { label: "Trộn (1–3)", files: ["/quizzes/ch1.json", "/quizzes/ch2.json", "/quizzes/ch3.json"] }
 };
 
