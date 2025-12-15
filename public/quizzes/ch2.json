@@ -2,27 +2,721 @@
   {
     "id": "ch2_1",
     "chapter": "ch2",
-    "question": "Theo định nghĩa của V.I. Lênin, vật chất là gì?",
+    "question": "Theo định nghĩa của Lênin, “vật chất” trước hết là:",
     "options": [
-      "Mọi thứ có khối lượng",
-      "Phạm trù triết học chỉ thực tại khách quan",
-      "Chỉ tồn tại trong tư duy",
-      "Năng lượng thuần tuý"
+      "Khối lượng – năng lượng trong tự nhiên.",
+      "Phạm trù triết học chỉ thực tại khách quan.",
+      "Tổng hợp các hạt cơ bản cấu tạo nên thế giới.",
+      "Toàn bộ vật thể cảm tính có thể cân–đo–đếm."
     ],
-    "answerIndex": 1,
-    "explanation": "Nhấn mạnh: thực tại khách quan, tồn tại không lệ thuộc vào cảm giác."
+    "answerIndex": 1
   },
   {
     "id": "ch2_2",
     "chapter": "ch2",
-    "question": "Trong các hình thức vận động, hình thức nào được coi là cao nhất?",
+    "question": "Điểm nhấn quan trọng nhất trong định nghĩa vật chất của Lênin để phân biệt với ý thức là:",
     "options": [
-      "Cơ học",
-      "Vật lý",
-      "Sinh học",
-      "Xã hội"
+      "Tính vận động và biến đổi không ngừng.",
+      "Tính có cấu trúc và hệ thống của thế giới.",
+      "Tính “thực tại khách quan”, tồn tại không lệ thuộc cảm giác.",
+      "Tính có thể nhận thức bằng thực nghiệm."
     ],
-    "answerIndex": 3,
-    "explanation": "Vận động xã hội là hình thức cao nhất."
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_3",
+    "chapter": "ch2",
+    "question": "Phát biểu nào phù hợp nhất với quan điểm Mác–Lênin về “thế giới thống nhất ở tính vật chất”?",
+    "options": [
+      "Thế giới chỉ gồm vật chất, không có ý thức.",
+      "Ý thức chỉ là “bóng” của vật chất nên không có vai trò gì.",
+      "Mọi cái tồn tại đều là các dạng tồn tại của vật chất (kể cả đời sống tinh thần như một hiện",
+      "Thế giới thống nhất vì đều tuân theo một “ý niệm tuyệt đối”."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_4",
+    "chapter": "ch2",
+    "question": "“Vận động là phương thức tồn tại của vật chất” nghĩa là:",
+    "options": [
+      "Mọi vận động đều do ý thức đặt ra mục tiêu.",
+      "Vận động là thuộc tính vốn có, gắn liền với vật chất.",
+      "Vận động là đặc tính chỉ có ở giới hữu cơ và xã hội.",
+      "Vận động là hình thức tồn tại của ý thức."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_5",
+    "chapter": "ch2",
+    "question": "“Đứng im” theo phép biện chứng duy vật được hiểu đúng nhất là:",
+    "options": [
+      "Trạng thái không có biến đổi nào.",
+      "Trạng thái vận động “đóng băng” trong thời gian dài.",
+      "Tính tương đối, tạm thời; biểu hiện của cân bằng trong điều kiện nhất định.",
+      "Đặc tính tuyệt đối của mọi vật thể."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_6",
+    "chapter": "ch2",
+    "question": "Cặp “không gian – thời gian” trong triết học Mác–Lênin là:",
+    "options": [
+      "Hai phạm trù chỉ hình thức tồn tại của ý thức.",
+      "Hai phạm trù mô tả hình thức tồn tại của vật chất.",
+      "Hai thuộc tính tách rời vật chất, tồn tại độc lập.",
+      "Hai khái niệm chỉ dùng trong vật lý học, không thuộc triết học."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_7",
+    "chapter": "ch2",
+    "question": "Chọn phát biểu đúng nhất về tính “khách quan” của không gian và thời gian:",
+    "options": [
+      "Do con người quy ước nên có tính chủ quan.",
+      "Chỉ đúng trong khoa học tự nhiên, không đúng trong xã hội.",
+      "Không gian và thời gian tồn tại khách quan, gắn với vật chất, không do ý thức tạo ra.",
+      "Phụ thuộc hoàn toàn vào cảm giác của chủ thể nhận thức."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_8",
+    "chapter": "ch2",
+    "question": "Quan điểm Mác–Lênin về mối quan hệ vật chất–ý thức nhấn mạnh điều nào sau đây?",
+    "options": [
+      "Ý thức quyết định vật chất trong mọi trường hợp.",
+      "Vật chất quyết định ý thức; ý thức có tính độc lập tương đối và tác động trở lại vật chất.",
+      "Vật chất và ý thức độc lập tuyệt đối, không liên hệ.",
+      "Ý thức chỉ là sản phẩm của ngôn ngữ, không liên quan đến hiện thực."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_9",
+    "chapter": "ch2",
+    "question": "Điều nào KHÔNG phải nguồn gốc xã hội của ý thức?",
+    "options": [
+      "Lao động.",
+      "Ngôn ngữ.",
+      "Quan hệ giao tiếp xã hội.",
+      "Cấu trúc sinh học của bộ não."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_10",
+    "chapter": "ch2",
+    "question": "Bản chất của ý thức theo triết học Mác–Lênin là:",
+    "options": [
+      "“Ý niệm” tồn tại vĩnh cửu trước vật chất.",
+      "Hình ảnh chủ quan của thế giới khách quan.",
+      "Tập hợp cảm xúc thuần túy của con người.",
+      "Sự “sao chép” nguyên xi hiện thực, không có sáng tạo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_11",
+    "chapter": "ch2",
+    "question": "Nói “ý thức mang tính sáng tạo” chủ yếu muốn nhấn mạnh:",
+    "options": [
+      "Ý thức luôn đúng và không thể sai.",
+      "Ý thức tạo ra thế giới vật chất mới từ hư vô.",
+      "Ý thức có khả năng khái quát, dự báo, xây dựng mục tiêu và phương án hoạt động.",
+      "Ý thức không phụ thuộc bất cứ điều kiện vật chất nào."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_12",
+    "chapter": "ch2",
+    "question": "Kết cấu của ý thức thường được phân tích gồm:",
+    "options": [
+      "Tri thức – tình cảm – ý chí (và các yếu tố tương ứng).",
+      "Ngôn ngữ – tư duy – hành vi.",
+      "Cảm giác – tri giác – biểu tượng.",
+      "Bản năng – trực giác – kinh nghiệm."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_13",
+    "chapter": "ch2",
+    "question": "Trong hoạt động nhận thức, yếu tố nào là “hạt nhân” của ý thức?",
+    "options": [
+      "Tình cảm.",
+      "Tri thức.",
+      "Ý chí.",
+      "Niềm tin tôn giáo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_14",
+    "chapter": "ch2",
+    "question": "Trong quan điểm duy vật biện chứng, phát biểu nào dễ “nhầm đúng” nhất nhưng thực ra SAI?",
+    "options": [
+      "Vật chất quyết định ý thức.",
+      "Ý thức tác động trở lại vật chất thông qua hoạt động thực tiễn.",
+      "Ý thức có thể “thay” vật chất nếu niềm tin đủ mạnh.",
+      "Ý thức có tính độc lập tương đối."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_15",
+    "chapter": "ch2",
+    "question": "Ví dụ nào thể hiện đúng cơ chế “ý thức tác động trở lại vật chất”?",
+    "options": [
+      "Thời tiết thay đổi làm tâm trạng con người thay đổi.",
+      "Một kế hoạch sản xuất hợp lý giúp tăng năng suất lao động.",
+      "Trọng lực làm vật rơi tự do.",
+      "Nhiệt độ tăng làm kim loại nở ra."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_16",
+    "chapter": "ch2",
+    "question": "Nếu tuyệt đối hóa vai trò của ý thức, dễ rơi vào khuynh hướng nào?",
+    "options": [
+      "Chủ nghĩa duy vật chất phác.",
+      "Chủ nghĩa duy vật siêu hình.",
+      "Chủ nghĩa duy tâm.",
+      "Chủ nghĩa hoài nghi."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_17",
+    "chapter": "ch2",
+    "question": "Nếu chỉ nhìn sự vật như tập hợp các thuộc tính cô lập, không xét liên hệ và vận động, đó gần với:",
+    "options": [
+      "Phương pháp biện chứng.",
+      "Phương pháp siêu hình.",
+      "Chủ nghĩa duy vật biện chứng.",
+      "Phương pháp lịch sử – cụ thể."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_18",
+    "chapter": "ch2",
+    "question": "“Tính độc lập tương đối của ý thức” thể hiện hợp lý nhất ở ý nào?",
+    "options": [
+      "Ý thức hoàn toàn tự do, không cần điều kiện vật chất.",
+      "Ý thức có thể phản ánh trước hiện thực, lựa chọn mục tiêu, định hướng hành động.",
+      "Ý thức luôn đúng hơn hiện thực khách quan.",
+      "Ý thức là nguyên nhân trực tiếp của mọi biến đổi tự nhiên."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_19",
+    "chapter": "ch2",
+    "question": "Chọn nhận định đúng về “tính thứ nhất – tính thứ hai” trong giải quyết vấn đề cơ bản của triết học (mặt bản thể luận):",
+    "options": [
+      "Ý thức có trước và quyết định vật chất.",
+      "Vật chất có trước và quyết định ý thức.",
+      "Vật chất và ý thức cùng có trước, đồng thời quyết định nhau như hai bản nguyên.",
+      "Không thể xác định cái nào có trước."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_20",
+    "chapter": "ch2",
+    "question": "Nói “vật chất quyết định ý thức” KHÔNG có nghĩa là:",
+    "options": [
+      "Nội dung ý thức phản ánh hiện thực vật chất.",
+      "Ý thức phụ thuộc điều kiện vật chất – xã hội.",
+      "Mọi ý nghĩ đều do vật chất “áp đặt” trực tiếp, con người không cần giáo dục.",
+      "Ý thức thay đổi khi đời sống vật chất thay đổi."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_21",
+    "chapter": "ch2",
+    "question": "Trong đời sống xã hội, “vật chất” được hiểu theo nghĩa triết học duy vật biện chứng gần nhất là:",
+    "options": [
+      "Tiền bạc và của cải cá nhân.",
+      "Tồn tại xã hội: con người hiện thực + điều kiện sinh hoạt vật chất + hoạt động vật chất +",
+      "Chỉ bao gồm lực lượng sản xuất.",
+      "Chỉ bao gồm cơ sở hạ tầng kinh tế."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_22",
+    "chapter": "ch2",
+    "question": "Khi đánh giá một chính sách công, yêu cầu “xuất phát từ thực tế khách quan” trước hết đòi hỏi:",
+    "options": [
+      "Dựa vào niềm tin và mục tiêu đạo đức.",
+      "Dựa vào số liệu, điều kiện vật chất, nguồn lực, tương quan lợi ích cụ thể.",
+      "Dựa vào mong muốn chủ quan của lãnh đạo.",
+      "Dựa vào truyền thống lịch sử, không cần cập nhật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_23",
+    "chapter": "ch2",
+    "question": "Phát biểu nào đúng nhất về quan hệ giữa “phản ánh” và “sáng tạo” trong ý thức?",
+    "options": [
+      "Có phản ánh thì không có sáng tạo.",
+      "Có sáng tạo thì không cần phản ánh.",
+      "Sáng tạo dựa trên phản ánh hiện thực, không tách rời điều kiện khách quan.",
+      "Phản ánh là sao chép, sáng tạo là tưởng tượng tùy ý."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_24",
+    "chapter": "ch2",
+    "question": "Ví dụ nào dễ gây nhầm giữa “nguồn gốc tự nhiên” và “nguồn gốc xã hội” của ý thức?",
+    "options": [
+      "Bộ não người là cơ quan vật chất của tư duy.",
+      "Lao động làm xuất hiện nhu cầu giao tiếp.",
+      "Ngôn ngữ là công cụ biểu đạt tư duy.",
+      "Hệ thần kinh phát triển giúp tăng khả năng phản xạ."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_25",
+    "chapter": "ch2",
+    "question": "Trong quản lý dự án phần mềm, câu nào thể hiện đúng quan điểm duy vật biện chứng?",
+    "options": [
+      "“Chỉ cần team có tinh thần tốt thì deadline tự đạt.”",
+      "“Muốn tăng chất lượng, chỉ cần họp nhiều hơn.”",
+      "“Cải tiến quy trình phải dựa vào dữ liệu, hạ tầng, năng lực đội ngũ; đồng thời thay đổi nhận",
+      "“Đã có kế hoạch là thực tế sẽ đi đúng kế hoạch.”"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_26",
+    "chapter": "ch2",
+    "question": "“Thực tại khách quan” trong định nghĩa vật chất của Lênin được nhấn mạnh để phản bác chủ yếu:",
+    "options": [
+      "Chủ nghĩa duy vật máy móc.",
+      "Chủ nghĩa duy tâm và thuyết không thể biết.",
+      "Chủ nghĩa duy vật chất phác thời cổ đại.",
+      "Thuyết nhị nguyên."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_27",
+    "chapter": "ch2",
+    "question": "Chọn ví dụ đúng nhất về “đứng im tương đối”:",
+    "options": [
+      "Một vật hoàn toàn không chịu tác động lực.",
+      "Nhiệt độ phòng luôn đúng 25°C ở mọi nơi.",
+      "Một chiếc xe dừng đèn đỏ: đứng im so với mặt đường nhưng vẫn vận động cùng Trái Đất.",
+      "Nguyên tử không có chuyển động nội tại."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_28",
+    "chapter": "ch2",
+    "question": "Nhận định nào đúng nhất về “hình thức vận động” của vật chất?",
+    "options": [
+      "Chỉ có vận động cơ học là cơ bản, các vận động khác là thứ yếu.",
+      "Có nhiều hình thức vận động; hình thức cao bao hàm (không triệt tiêu) hình thức thấp.",
+      "Vận động xã hội và vận động sinh học là một.",
+      "Vận động là đặc tính của ý thức, không phải của vật chất."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_29",
+    "chapter": "ch2",
+    "question": "Khi một doanh nghiệp chuyển từ “làm thủ công” sang “tự động hóa bằng AI”, xét theo biện chứng, bước chuyển này gần với:",
+    "options": [
+      "Sự lặp lại đơn giản của cái cũ.",
+      "Sự thay đổi về lượng (nhỏ) không ảnh hưởng chất.",
+      "Một “bước nhảy” làm biến đổi chất của hệ thống sản xuất (nếu đủ điều kiện).",
+      "Sự phủ định siêu hình, xóa sạch mọi yếu tố cũ."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_30",
+    "chapter": "ch2",
+    "question": "Khẳng định nào đúng nhất về “ý thức xã hội” và “tồn tại xã hội”?",
+    "options": [
+      "Ý thức xã hội quyết định tồn tại xã hội.",
+      "Tồn tại xã hội quyết định ý thức xã hội; ý thức xã hội có thể tác động trở lại.",
+      "Hai cái độc lập tuyệt đối.",
+      "Tồn tại xã hội chỉ gồm đời sống tinh thần."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_31",
+    "chapter": "ch2",
+    "question": "“Phép biện chứng” theo nghĩa chung nhất là học thuyết về:",
+    "options": [
+      "Các quy tắc suy luận logic hình thức.",
+      "Mối liên hệ phổ biến và sự vận động, phát triển.",
+      "Các hiện tượng tinh thần thuần túy.",
+      "Các quy luật siêu nhiên chi phối thế giới."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_32",
+    "chapter": "ch2",
+    "question": "“Biện chứng khách quan” và “biện chứng chủ quan” khác nhau chủ yếu ở:",
+    "options": [
+      "Cái nào đúng, cái nào sai.",
+      "Cái nào thuộc tự nhiên, cái nào thuộc xã hội.",
+      "Biện chứng khách quan là vận động của sự vật; biện chứng chủ quan là phản ánh vận động",
+      "Biện chứng chủ quan là vận động của vật chất; khách quan là vận động của ý thức."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_33",
+    "chapter": "ch2",
+    "question": "Hai nguyên lý cơ bản của phép biện chứng duy vật là:",
+    "options": [
+      "Nguyên lý nhân quả và nguyên lý tất nhiên.",
+      "Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển.",
+      "Nguyên lý vật chất quyết định ý thức và nguyên lý ý thức tác động vật chất.",
+      "Nguyên lý phủ định và nguyên lý kế thừa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_34",
+    "chapter": "ch2",
+    "question": "“Tính phổ biến của mối liên hệ” KHÔNG có nghĩa là:",
+    "options": [
+      "Mọi sự vật đều có quan hệ với cái khác ở những mức độ nhất định.",
+      "Mọi mối liên hệ đều như nhau và quan trọng ngang nhau.",
+      "Sự vật liên hệ trực tiếp hoặc gián tiếp, bên trong hoặc bên ngoài.",
+      "Có mối liên hệ cơ bản và không cơ bản."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_35",
+    "chapter": "ch2",
+    "question": "“Tính khách quan của mối liên hệ” nghĩa là:",
+    "options": [
+      "Do ý thức con người sáng tạo ra để giải thích thế giới.",
+      "Do “ý niệm tuyệt đối” quy định.",
+      "Vốn có của sự vật, tồn tại độc lập với ý muốn chủ quan.",
+      "Chỉ đúng với tự nhiên, không đúng với xã hội."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_36",
+    "chapter": "ch2",
+    "question": "Nguyên tắc phương pháp luận rút ra từ nguyên lý về mối liên hệ phổ biến là:",
+    "options": [
+      "Nguyên tắc lịch sử – cụ thể.",
+      "Nguyên tắc toàn diện.",
+      "Nguyên tắc tối ưu hóa.",
+      "Nguyên tắc quy nạp."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_37",
+    "chapter": "ch2",
+    "question": "“Quan điểm toàn diện” đòi hỏi khi xem xét một hiện tượng phải:",
+    "options": [
+      "Chỉ tập trung vào yếu tố chính, bỏ qua yếu tố phụ.",
+      "Xem xét trong hệ thống các mối liên hệ, phân biệt cái chủ yếu – thứ yếu, bản chất – không",
+      "Chỉ xem trong một hoàn cảnh lịch sử cụ thể.",
+      "Chỉ xem xét các mặt lượng hóa được."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_38",
+    "chapter": "ch2",
+    "question": "Nguyên lý về sự phát triển nhấn mạnh:",
+    "options": [
+      "Vận động chỉ là lặp lại, không có cái mới.",
+      "Phát triển là quá trình vận động theo khuynh hướng đi lên (trong tính quanh co, phức tạp),",
+      "Mọi biến đổi đều là phát triển.",
+      "Phát triển là do ý chí con người quyết định."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_39",
+    "chapter": "ch2",
+    "question": "“Quan điểm phát triển” KHÔNG đồng nhất với:",
+    "options": [
+      "Nhìn sự vật trong trạng thái vận động và biến đổi.",
+      "Thấy được xu hướng và khả năng chuyển hóa.",
+      "Đồng nhất mọi thay đổi với tiến bộ.",
+      "Xem xét cả quá trình hình thành và kết thúc."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_40",
+    "chapter": "ch2",
+    "question": "“Quan điểm lịch sử – cụ thể” yêu cầu:",
+    "options": [
+      "Lấy ý kiến số đông làm chuẩn.",
+      "Đánh giá sự vật trong điều kiện, hoàn cảnh lịch sử cụ thể, không gian–thời gian xác định.",
+      "Chỉ dựa vào kinh nghiệm quá khứ.",
+      "Coi quy luật là bất biến trong mọi bối cảnh."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_41",
+    "chapter": "ch2",
+    "question": "Nếu phân tích thất bại của một dự án AI mà chỉ đổ lỗi “do team thiếu cố gắng”, bỏ qua dữ liệu, hạ tầng, yêu cầu bài toán, đó vi phạm mạnh nhất:",
+    "options": [
+      "Quan điểm toàn diện.",
+      "Quan điểm lịch sử – cụ thể.",
+      "Nguyên tắc phát triển.",
+      "Nguyên tắc kế thừa."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_42",
+    "chapter": "ch2",
+    "question": "“Phạm trù” trong phép biện chứng duy vật là:",
+    "options": [
+      "Khái niệm riêng cho từng khoa học chuyên ngành.",
+      "Khái niệm phản ánh những mặt, mối liên hệ phổ biến nhất của hiện thực.",
+      "Thuật ngữ chỉ có trong logic hình thức.",
+      "Khái niệm do mỗi cá nhân tự quy ước."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_43",
+    "chapter": "ch2",
+    "question": "Cặp phạm trù “cái riêng – cái chung” dễ bị hiểu sai nhất ở chỗ:",
+    "options": [
+      "Cái chung tồn tại ngoài cái riêng.",
+      "Cái chung tồn tại trong cái riêng và thông qua cái riêng.",
+      "Cái riêng phong phú hơn cái chung.",
+      "Cái chung và cái riêng có thể chuyển hóa trong điều kiện nhất định."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_44",
+    "chapter": "ch2",
+    "question": "“Cái đơn nhất” trong mối quan hệ cái riêng–cái chung là:",
+    "options": [
+      "Cái chỉ tồn tại trong tư duy.",
+      "Thuộc tính chỉ có ở một sự vật hoặc nhóm rất hẹp, không lặp lại ở cái khác (trong phạm vi",
+      "Thuộc tính lặp lại ở nhiều sự vật.",
+      "Bản chất của mọi sự vật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_45",
+    "chapter": "ch2",
+    "question": "Khi học một “design pattern”, thái độ đúng theo cặp cái riêng–cái chung là:",
+    "options": [
+      "Học cái chung rồi áp dụng y nguyên, không cần sửa theo dự án.",
+      "Chỉ xem dự án mình (cái riêng), không cần nắm nguyên tắc chung.",
+      "Nắm cái chung (nguyên lý) và vận dụng linh hoạt vào cái riêng (bối cảnh, ràng buộc).",
+      "Coi cái chung là thứ vô ích."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_46",
+    "chapter": "ch2",
+    "question": "Trong cặp “nguyên nhân – kết quả”, phát biểu đúng nhất là:",
+    "options": [
+      "Nguyên nhân luôn xảy ra sau kết quả.",
+      "Một nguyên nhân chỉ sinh ra một kết quả duy nhất.",
+      "Nguyên nhân và kết quả có thể chuyển hóa vị trí cho nhau trong chuỗi điều kiện nhất định.",
+      "Kết quả không thể tác động trở lại nguyên nhân."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_47",
+    "chapter": "ch2",
+    "question": "“Điều kiện” khác “nguyên nhân” ở điểm:",
+    "options": [
+      "Điều kiện luôn quan trọng hơn nguyên nhân.",
+      "Điều kiện là cái trực tiếp sinh ra kết quả, còn nguyên nhân chỉ tạo môi trường.",
+      "Điều kiện là hoàn cảnh để nguyên nhân phát huy tác dụng; nguyên nhân là tác động trực",
+      "Điều kiện và nguyên nhân là một, chỉ khác tên gọi."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_48",
+    "chapter": "ch2",
+    "question": "Trong phân tích sự cố hệ thống (server down), việc tìm “root cause” gần nhất với yêu cầu của phạm trù:",
+    "options": [
+      "Nội dung – hình thức.",
+      "Nguyên nhân – kết quả.",
+      "Tất nhiên – ngẫu nhiên.",
+      "Khả năng – hiện thực."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_49",
+    "chapter": "ch2",
+    "question": "Cặp “tất nhiên – ngẫu nhiên” được hiểu đúng là:",
+    "options": [
+      "Tất nhiên là cái không bao giờ thay đổi; ngẫu nhiên là cái luôn thay đổi.",
+      "Tất nhiên và ngẫu nhiên tách rời, không liên hệ.",
+      "Tất nhiên biểu hiện qua vô số cái ngẫu nhiên; ngẫu nhiên là hình thức biểu hiện của tất",
+      "Ngẫu nhiên luôn quyết định tất nhiên."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_50",
+    "chapter": "ch2",
+    "question": "Trong dữ liệu hành vi người dùng, “một đợt viral bất ngờ” thường được xem trước hết là:",
+    "options": [
+      "Tất nhiên thuần túy.",
+      "Ngẫu nhiên thuần túy, không liên quan quy luật.",
+      "Yếu tố ngẫu nhiên có thể kích hoạt/biểu hiện xu hướng tất nhiên (nếu nền tảng đã có điều",
+      "Bản chất của mọi tăng trưởng."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_51",
+    "chapter": "ch2",
+    "question": "Cặp “nội dung – hình thức”, phát biểu đúng nhất:",
+    "options": [
+      "Hình thức quyết định nội dung trong mọi trường hợp.",
+      "Nội dung quyết định hình thức; hình thức tác động trở lại nội dung.",
+      "Nội dung và hình thức không thể thay đổi độc lập.",
+      "Nội dung chỉ là “vỏ ngoài”, hình thức mới là “cốt lõi”."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_52",
+    "chapter": "ch2",
+    "question": "Khi một sản phẩm có “core features” tốt nhưng UI/UX tệ làm người dùng bỏ đi, quan hệ này gần nhất với:",
+    "options": [
+      "Bản chất – hiện tượng.",
+      "Nội dung – hình thức (hình thức tác động trở lại nội dung).",
+      "Tất nhiên – ngẫu nhiên.",
+      "Khả năng – hiện thực."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_53",
+    "chapter": "ch2",
+    "question": "Cặp “bản chất – hiện tượng”, phát biểu đúng nhất:",
+    "options": [
+      "Hiện tượng luôn phản ánh đầy đủ bản chất.",
+      "Bản chất không biểu hiện ra hiện tượng.",
+      "Hiện tượng là sự biểu hiện của bản chất nhưng có thể che giấu bản chất, cần phân tích điều",
+      "Bản chất là cái quan sát được trực tiếp."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_54",
+    "chapter": "ch2",
+    "question": "Trong nghiên cứu khoa học, việc “bị nhiễu do data imbalance” khiến mô hình nhìn đúng “hiện tượng” nhưng sai “bản chất” gần nhất với:",
+    "options": [
+      "Nguyên nhân – kết quả.",
+      "Bản chất – hiện tượng.",
+      "Nội dung – hình thức.",
+      "Tất nhiên – ngẫu nhiên."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_55",
+    "chapter": "ch2",
+    "question": "Cặp “khả năng – hiện thực”, hiểu đúng nhất:",
+    "options": [
+      "Khả năng luôn tự động biến thành hiện thực.",
+      "Khả năng và hiện thực không liên quan nhau.",
+      "Khả năng là cái có thể xảy ra dựa trên điều kiện; hiện thực là cái đã/đang tồn tại.",
+      "Hiện thực là cái “được nghĩ tới”, khả năng là cái “đang tồn tại”."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_56",
+    "chapter": "ch2",
+    "question": "Một ý tưởng startup “có tiềm năng” nhưng thiếu vốn, thiếu thị trường, thiếu đội ngũ… thì nên xem như:",
+    "options": [
+      "Hiện thực đã chín muồi.",
+      "Khả năng trừu tượng (chưa đủ điều kiện thành hiện thực).",
+      "Tất nhiên phải thành công.",
+      "Bản chất đã hoàn thiện."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_57",
+    "chapter": "ch2",
+    "question": "Khi điều kiện thay đổi, khả năng có thể:",
+    "options": [
+      "Không bao giờ thay đổi.",
+      "Chỉ tăng lên, không thể giảm.",
+      "Chuyển hóa từ khả năng này sang khả năng khác, hoặc thành hiện thực.",
+      "Chỉ tồn tại trong tư duy nên không phụ thuộc điều kiện."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_58",
+    "chapter": "ch2",
+    "question": "Trong các phát biểu sau, đâu là ví dụ phù hợp nhất cho “nguyên nhân chủ yếu” trong cặp nguyên nhân–kết quả?",
+    "options": [
+      "Máy tính hết pin làm code không chạy.",
+      "Thiếu kiểm thử hồi quy khiến lỗi production lặp lại.",
+      "Một lần mạng yếu làm request timeout.",
+      "Người dùng nhập sai mật khẩu."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_59",
+    "chapter": "ch2",
+    "question": "Phân biệt “bản chất” và “hiện tượng” có ý nghĩa phương pháp luận quan trọng nhất là:",
+    "options": [
+      "Chỉ tin vào cái quan sát được.",
+      "Không cần dữ liệu định lượng.",
+      "Tránh đánh đồng biểu hiện bề ngoài với quy luật bên trong; tìm đúng điểm can thiệp.",
+      "Luôn bỏ qua hiện tượng để đi thẳng vào bản chất."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_60",
+    "chapter": "ch2",
+    "question": "Để “giữ cái chung trong cái riêng”, cách học hiệu quả nhất là:",
+    "options": [
+      "Học thuộc định nghĩa, không cần ví dụ.",
+      "Chỉ làm bài tập tình huống, bỏ qua lý thuyết.",
+      "Học khái niệm + làm ví dụ đa bối cảnh để thấy cái chung biểu hiện trong cái riêng.",
+      ""
+    ],
+    "answerIndex": 2
   }
 ]
