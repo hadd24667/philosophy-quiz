@@ -2,11 +2,8 @@ import pdfplumber
 import re
 import json
 
-# ========= MARKERS =========
 START_QUESTIONS = "TRẮC NGHIỆM CHƯƠNG 2"
-START_ANSWERS = "ĐÁP ÁN"
 
-# ========= REGEX =========
 QUESTION_RE = re.compile(r"Câu\s*(\d+)\.\s*(.+)", re.IGNORECASE)
 OPTION_RE = re.compile(r"^[A-D]\.\s*(.+)")
 ANSWER_PAIR_RE = re.compile(r"(\d+)\s*([A-D])")
@@ -14,7 +11,6 @@ ANSWER_PAIR_RE = re.compile(r"(\d+)\s*([A-D])")
 LETTER_TO_INDEX = {"A": 0, "B": 1, "C": 2, "D": 3}
 
 
-# ========= UTILS =========
 def extract_lines(pdf_path):
     lines = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -28,36 +24,29 @@ def extract_lines(pdf_path):
     return lines
 
 
-def slice_between(lines, start_marker, stop_marker=None):
-    start = None
-    stop = None
-
+def slice_from_marker(lines, marker):
     for i, l in enumerate(lines):
-        if start is None and start_marker in l.upper():
-            start = i + 1
-        elif start is not None and stop_marker and stop_marker in l.upper():
-            stop = i
-            break
-
-    if start is None:
-        raise RuntimeError(f"❌ Không tìm thấy {start_marker}")
-
-    return lines[start:stop]
+        if marker in l.upper():
+            return lines[i + 1 :]
+    raise RuntimeError(f"❌ Không tìm thấy {marker}")
 
 
-# ========= PARSE QUESTIONS =========
-def parse_questions(lines):
+def parse_questions(lines, max_q=90):
     questions = []
     cur = None
 
     for line in lines:
         q = QUESTION_RE.match(line)
         if q:
+            num = int(q.group(1))
+            if num > max_q:
+                break
+
             if cur:
                 questions.append(cur)
 
             cur = {
-                "num": int(q.group(1)),
+                "num": num,
                 "question": q.group(2).strip(),
                 "options": []
             }
@@ -71,13 +60,12 @@ def parse_questions(lines):
         if cur and len(cur["options"]) == 0:
             cur["question"] += " " + line
 
-    if cur:
+    if cur and cur["num"] <= max_q:
         questions.append(cur)
 
     return questions
 
 
-# ========= PARSE ANSWERS =========
 def parse_answers(lines):
     joined = " ".join(lines)
     pairs = ANSWER_PAIR_RE.findall(joined)
@@ -89,7 +77,6 @@ def parse_answers(lines):
     return answers
 
 
-# ========= BUILD JSON =========
 def build_json(questions, answers):
     result = []
 
@@ -109,25 +96,22 @@ def build_json(questions, answers):
     return result
 
 
-# ========= MAIN =========
 def main():
-    pdf_path = "ch_2_on.pdf"   # đổi nếu cần
+    pdf_path = "ch_2_on.pdf"
     out_path = "ch2.json"
 
     lines = extract_lines(pdf_path)
 
-    question_lines = slice_between(lines, START_QUESTIONS, START_ANSWERS)
-    answer_lines = slice_between(lines, START_ANSWERS)
+    question_lines = slice_from_marker(lines, START_QUESTIONS)
+    questions = parse_questions(question_lines, max_q=90)
 
-    questions = parse_questions(question_lines)
-    answers = parse_answers(answer_lines)
-
+    answers = parse_answers(lines)
     result = build_json(questions, answers)
 
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"✔ Parsed {len(result)} câu chương 2")
+    print(f"✔ Parsed {len(result)} câu chương 2 (EXPECTED: 90)")
     print(f"✔ Output: {out_path}")
 
 

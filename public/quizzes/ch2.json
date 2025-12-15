@@ -715,8 +715,368 @@
       "Học thuộc định nghĩa, không cần ví dụ.",
       "Chỉ làm bài tập tình huống, bỏ qua lý thuyết.",
       "Học khái niệm + làm ví dụ đa bối cảnh để thấy cái chung biểu hiện trong cái riêng.",
-      ""
+      "Chỉ xem đáp án đúng, không phân tích đáp án sai."
     ],
     "answerIndex": 2
+  },
+  {
+    "id": "ch2_61",
+    "chapter": "ch2",
+    "question": "Nhận định nào dễ gây nhầm nhưng đúng theo phép biện chứng?",
+    "options": [
+      "Cái chung “tồn tại như một vật thể” bên ngoài cái riêng.",
+      "Cái chung là “tổng số” các cái riêng cộng lại.",
+      "Cái chung chỉ tồn tại trong cái riêng và thông qua cái riêng.",
+      "Cái riêng chỉ là “bản sao” của cái chung."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_62",
+    "chapter": "ch2",
+    "question": "Khi phân tích một hiện tượng xã hội, nếu chỉ nêu “một nguyên nhân duy nhất” và coi đó là toàn bộ câu chuyện, dễ rơi vào:",
+    "options": [
+      "Quan điểm toàn diện.",
+      "Quan điểm phiến diện/siêu hình.",
+      "Quan điểm phát triển.",
+      "Quan điểm lịch sử – cụ thể."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_63",
+    "chapter": "ch2",
+    "question": "Trong cặp “nội dung – hình thức”, câu nào SAI tinh tế?",
+    "options": [
+      "Nội dung có thể thay đổi nhanh hơn hình thức trong một số điều kiện.",
+      "Hình thức có tính độc lập tương đối và tác động trở lại nội dung.",
+      "Nội dung và hình thức luôn thống nhất tuyệt đối, không có mâu thuẫn.",
+      "Khi hình thức không còn phù hợp, nó kìm hãm nội dung."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_64",
+    "chapter": "ch2",
+    "question": "Khi nói “ngẫu nhiên là hình thức biểu hiện của tất nhiên”, điều đó hàm ý:",
+    "options": [
+      "Ngẫu nhiên chỉ là ảo giác.",
+      "Ngẫu nhiên không có vai trò gì trong thực tiễn.",
+      "Muốn nhận ra xu hướng tất nhiên phải phân tích nhiều biểu hiện ngẫu nhiên và điều kiện cụ",
+      "Tất nhiên chỉ xuất hiện khi không có ngẫu nhiên."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_65",
+    "chapter": "ch2",
+    "question": "Một kết quả (ví dụ: tăng trưởng doanh thu) có thể trở thành nguyên nhân cho kết quả mới (mở rộng thị phần) thể hiện:",
+    "options": [
+      "Sự tách rời tuyệt đối giữa nguyên nhân và kết quả.",
+      "Sự chuyển hóa, tác động qua lại trong chuỗi nhân quả.",
+      "Tính bất biến của nguyên nhân.",
+      "Tính phi quy luật của kết quả."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_66",
+    "chapter": "ch2",
+    "question": "“Khả năng hiện thực” khác “khả năng trừu tượng” ở chỗ:",
+    "options": [
+      "Khả năng hiện thực là cái đã xảy ra, khả năng trừu tượng là cái chưa xảy ra.",
+      "Khả năng hiện thực có đủ điều kiện để chuyển hóa thành hiện thực; khả năng trừu tượng thì",
+      "Khả năng hiện thực chỉ tồn tại trong tự nhiên.",
+      "Khả năng trừu tượng luôn mạnh hơn khả năng hiện thực."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_67",
+    "chapter": "ch2",
+    "question": "Trong đánh giá năng lực nhân sự, việc chỉ nhìn “bằng cấp” như bản chất mà bỏ qua “hiệu quả công việc”, sai lầm gần nhất là:",
+    "options": [
+      "Nhầm hiện tượng với bản chất.",
+      "Nhầm bản chất với hiện tượng.",
+      "Phủ nhận mối liên hệ phổ biến.",
+      "Phủ nhận vận động."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_68",
+    "chapter": "ch2",
+    "question": "“Bản chất” thường có đặc điểm nào so với “hiện tượng”?",
+    "options": [
+      "Dễ quan sát hơn.",
+      "Ổn định hơn, tương đối bền vững hơn.",
+      "Luôn thay đổi nhanh hơn.",
+      "Không liên quan quy luật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_69",
+    "chapter": "ch2",
+    "question": "Khi thay đổi “hình thức tổ chức” (quy trình, cơ cấu) mà không thay đổi “nội dung” (mục tiêu, năng lực, nguồn lực), hệ quả hay gặp là:",
+    "options": [
+      "Hiệu quả chắc chắn tăng.",
+      "Hình thức tự sinh ra nội dung mới.",
+      "Thay đổi hình thức nhưng nội dung không chuyển, thậm chí phản tác dụng.",
+      "Không có tác động gì vì hình thức không quan trọng."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_70",
+    "chapter": "ch2",
+    "question": "Quy luật “lượng – chất” nói chung chỉ ra rằng:",
+    "options": [
+      "Chất quyết định lượng trong mọi trường hợp.",
+      "Tích lũy biến đổi về lượng đến “điểm nút” sẽ dẫn đến biến đổi về chất (bước nhảy) và ngược",
+      "Mọi thay đổi đều là thay đổi chất.",
+      "Bước nhảy chỉ xảy ra trong tự nhiên."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_71",
+    "chapter": "ch2",
+    "question": "“Điểm nút” là:",
+    "options": [
+      "Khoảnh khắc bất kỳ trong quá trình vận động.",
+      "Giới hạn mà tại đó lượng biến đổi đủ làm chất đổi.",
+      "Mọi điều kiện bên ngoài của sự vật.",
+      "Một loại mâu thuẫn trong sự vật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_72",
+    "chapter": "ch2",
+    "question": "“Bước nhảy” KHÔNG nhất thiết phải là:",
+    "options": [
+      "Đột biến tức thời.",
+      "Sự chuyển hóa từ chất cũ sang chất mới.",
+      "Diễn ra trong nhiều hình thức (nhanh/chậm, cục bộ/toàn bộ…).",
+      "Luôn có phá vỡ liên tục và gây khủng hoảng."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_73",
+    "chapter": "ch2",
+    "question": "Trong học tập, “học đều mỗi ngày” tạo tích lũy lượng; “đột nhiên làm được đề khó” phản ánh:",
+    "options": [
+      "Bản chất – hiện tượng.",
+      "Lượng – chất (bước nhảy khi đủ lượng và điều kiện).",
+      "Tất nhiên – ngẫu nhiên.",
+      "Nội dung – hình thức."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_74",
+    "chapter": "ch2",
+    "question": "Quy luật thống nhất và đấu tranh của các mặt đối lập khẳng định nguồn gốc của phát triển là:",
+    "options": [
+      "Sự lặp lại của cái cũ.",
+      "Sự tác động của lực lượng siêu nhiên.",
+      "Mâu thuẫn nội tại của sự vật (các mặt đối lập).",
+      "Ý chí chủ quan của con người."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_75",
+    "chapter": "ch2",
+    "question": "“Mặt đối lập” được hiểu đúng nhất là:",
+    "options": [
+      "Hai yếu tố bất kỳ khác nhau.",
+      "Hai mặt có khuynh hướng trái ngược nhau, ràng buộc và tác động lẫn nhau trong cùng một",
+      "Hai hiện tượng tách biệt không liên quan.",
+      "Hai trạng thái độc lập tuyệt đối."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_76",
+    "chapter": "ch2",
+    "question": "Nhận định nào đúng về “thống nhất” giữa các mặt đối lập?",
+    "options": [
+      "Là hòa hợp tuyệt đối, không có xung đột.",
+      "Là sự nương tựa, quy định lẫn nhau, tồn tại trong nhau ở mức độ nhất định.",
+      "Là sự triệt tiêu lẫn nhau hoàn toàn.",
+      "Là trạng thái ngẫu nhiên, không có tính quy luật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_77",
+    "chapter": "ch2",
+    "question": "“Đấu tranh” giữa các mặt đối lập KHÔNG có nghĩa là:",
+    "options": [
+      "Xung đột bạo lực trong mọi trường hợp.",
+      "Sự bài trừ, phủ định, chuyển hóa, giải quyết mâu thuẫn theo nhiều hình thức.",
+      "Là động lực thúc đẩy biến đổi và phát triển.",
+      "Có thể diễn ra âm thầm, thông qua điều chỉnh, cạnh tranh, cải cách…"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_78",
+    "chapter": "ch2",
+    "question": "Trong một tổ chức, “mâu thuẫn giữa yêu cầu đổi mới và thói quen cũ” nếu được xử lý tốt thường dẫn đến:",
+    "options": [
+      "Triệt tiêu hoàn toàn đổi mới.",
+      "Dừng phát triển để giữ ổn định.",
+      "Tạo động lực cải tiến quy trình, hình thành trạng thái mới phù hợp hơn.",
+      "Không tạo hệ quả gì."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_79",
+    "chapter": "ch2",
+    "question": "Quy luật phủ định của phủ định phản ánh khuynh hướng phát triển:",
+    "options": [
+      "Đi theo đường thẳng đều tăm tắp.",
+      "Lặp lại nguyên xi cái cũ.",
+      "Theo đường “xoáy ốc”: kế thừa và phát triển qua các lần phủ định biện chứng.",
+      "Ngẫu nhiên, không có định hướng."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_80",
+    "chapter": "ch2",
+    "question": "“Phủ định biện chứng” khác “phủ định siêu hình” chủ yếu ở:",
+    "options": [
+      "Phủ định biện chứng xóa sạch cái cũ.",
+      "Phủ định biện chứng mang tính khách quan, có kế thừa; phủ định siêu hình là phủ định sạch",
+      "Phủ định siêu hình luôn đúng trong tự nhiên.",
+      "Hai loại phủ định hoàn toàn giống nhau."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_81",
+    "chapter": "ch2",
+    "question": "Ví dụ nào gần nhất với “phủ định biện chứng”?",
+    "options": [
+      "Xóa toàn bộ codebase và viết lại từ đầu không kế thừa gì.",
+      "Cải tiến hệ thống: giữ phần lõi ổn định, thay module lỗi thời, refactor dần để lên kiến trúc tốt",
+      "Đập bỏ mọi quy tắc vì “tự do sáng tạo”.",
+      "Bỏ qua quá khứ, chỉ nhìn tương lai."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_82",
+    "chapter": "ch2",
+    "question": "Một sai lầm phổ biến khi vận dụng quy luật lượng–chất là:",
+    "options": [
+      "Chỉ tích lũy lượng mà không tạo điều kiện cho bước nhảy.",
+      "Chỉ chú ý điều kiện, không cần tích lũy lượng.",
+      "Đồng nhất mọi thay đổi nhỏ với bước nhảy.",
+      "Cả A và C."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_83",
+    "chapter": "ch2",
+    "question": "Khi nói “mâu thuẫn là khách quan”, điều đó KHÔNG có nghĩa là:",
+    "options": [
+      "Mâu thuẫn tồn tại độc lập với ý muốn chủ quan.",
+      "Mâu thuẫn có thể nhận diện và xử lý bằng hoạt động thực tiễn.",
+      "Mâu thuẫn chỉ là do con người “nghĩ ra”.",
+      "Mâu thuẫn là nguồn gốc vận động và phát triển."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_84",
+    "chapter": "ch2",
+    "question": "Vai trò của thực tiễn đối với nhận thức được khái quát đúng nhất là:",
+    "options": [
+      "Cơ sở – nguồn gốc – tiêu chuẩn.",
+      "Nguồn gốc – mục đích – mục tiêu – tiêu chuẩn.",
+      "Cơ sở – động lực – mục đích – tiêu chuẩn.",
+      "Động lực – mục tiêu – tiêu chuẩn – kết quả."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_85",
+    "chapter": "ch2",
+    "question": "“Thực tiễn là tiêu chuẩn của chân lý” đồng thời mang tính tuyệt đối và tương đối vì:",
+    "options": [
+      "Thực tiễn luôn đúng tuyệt đối trong mọi thời điểm.",
+      "Thực tiễn là tiêu chuẩn khách quan duy nhất, nhưng bản thân thực tiễn vận động và phát",
+      "Thực tiễn phụ thuộc cảm giác chủ quan nên tương đối.",
+      "Chân lý chỉ có trong tư duy nên không kiểm tra được."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_86",
+    "chapter": "ch2",
+    "question": "Chân lý được hiểu đúng nhất là:",
+    "options": [
+      "Điều mà số đông tin là đúng.",
+      "Tri thức phù hợp hiện thực khách quan và được thực tiễn kiểm nghiệm.",
+      "Điều có ích cho con người.",
+      "Mọi kết luận của khoa học đều là chân lý tuyệt đối."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_87",
+    "chapter": "ch2",
+    "question": "“Không có chân lý trừu tượng, chung chung; chân lý luôn cụ thể” hàm ý:",
+    "options": [
+      "Chân lý thay đổi tùy cảm xúc.",
+      "Mọi chân lý đều chỉ đúng trong một trường hợp duy nhất.",
+      "Chân lý gắn với điều kiện lịch sử–cụ thể, không gian–thời gian xác định; tách điều kiện sẽ dễ",
+      "Chân lý không liên quan thực tiễn."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_88",
+    "chapter": "ch2",
+    "question": "Mối quan hệ giữa chân lý tuyệt đối và chân lý tương đối được hiểu đúng nhất là:",
+    "options": [
+      "Hai loại chân lý tách rời nhau.",
+      "Chân lý tương đối phủ định hoàn toàn chân lý tuyệt đối.",
+      "Chân lý tuyệt đối là tổng (xu hướng) của vô số chân lý tương đối; chúng thống nhất và",
+      "Chân lý tuyệt đối là thứ “có sẵn”, không cần thực tiễn."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_89",
+    "chapter": "ch2",
+    "question": "Công thức khái quát quá trình nhận thức (theo Lênin) thường được diễn đạt là:",
+    "options": [
+      "Tư duy trừu tượng → trực quan sinh động → thực tiễn.",
+      "Trực quan sinh động → tư duy trừu tượng → trở về thực tiễn.",
+      "Thực tiễn → tư duy trừu tượng → trực quan sinh động.",
+      "Trực giác → niềm tin → hành động."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_90",
+    "chapter": "ch2",
+    "question": "Một nhóm nghiên cứu thấy mô hình đạt accuracy cao trên test set nhưng triển khai thực tế thất bại. Theo duy vật biện chứng, cách kết luận đúng nhất là:",
+    "options": [
+      "Test set là chân lý tuyệt đối.",
+      "Thực tiễn có thể “phủ định” tính chân lý của tri thức; cần xem lại dữ liệu, điều kiện triển khai,",
+      "Chỉ cần tin vào mô hình, thực tế sẽ theo.",
+      "Do yếu tố ngẫu nhiên nên không cần sửa."
+    ],
+    "answerIndex": 1
   }
 ]
