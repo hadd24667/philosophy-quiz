@@ -2,7 +2,7 @@ import pdfplumber
 import re
 import json
 
-START_QUESTIONS = "TRẮC NGHIỆM CHƯƠNG 2"
+START_QUESTIONS = "Bộ câu hỏi (90 câu)"
 
 QUESTION_RE = re.compile(r"Câu\s*(\d+)\.\s*(.+)", re.IGNORECASE)
 OPTION_RE = re.compile(r"^[A-D]\.\s*(.+)")
@@ -36,6 +36,8 @@ def parse_questions(lines, max_q=90):
     cur = None
 
     for line in lines:
+        line = re.sub(r"\s+", " ", line).strip()
+        # 1) bắt đầu câu mới
         q = QUESTION_RE.match(line)
         if q:
             num = int(q.group(1))
@@ -52,18 +54,30 @@ def parse_questions(lines, max_q=90):
             }
             continue
 
+        if not cur:
+            continue
+
+        # 2) bắt đầu 1 option mới A/B/C/D
         opt = OPTION_RE.match(line)
-        if opt and cur:
+        if opt:
             cur["options"].append(opt.group(1).strip())
             continue
 
-        if cur and len(cur["options"]) == 0:
-            cur["question"] += " " + line
+        # 3) không match câu mới/option mới => nối dòng
+        #    - nếu chưa có options: đây là phần tiếp của câu hỏi
+        #    - nếu đã có options: đây là phần tiếp của option gần nhất (option dài xuống dòng)
+        if cur["options"]:
+            # nối vào option gần nhất
+            cur["options"][-1] = (cur["options"][-1] + " " + line).strip()
+        else:
+            # nối vào câu hỏi
+            cur["question"] = (cur["question"] + " " + line).strip()
 
     if cur and cur["num"] <= max_q:
         questions.append(cur)
 
     return questions
+
 
 
 def parse_answers(lines):
@@ -86,8 +100,8 @@ def build_json(questions, answers):
             options.append("")
 
         result.append({
-            "id": f"ch2_{q['num']}",
-            "chapter": "ch2",
+            "id": f"ch3_{q['num']}",
+            "chapter": "ch3",
             "question": q["question"],
             "options": options,
             "answerIndex": answers.get(q["num"])
@@ -97,13 +111,13 @@ def build_json(questions, answers):
 
 
 def main():
-    pdf_path = "ch_2_on.pdf"
-    out_path = "ch2.json"
+    pdf_path = "ch_3_on.pdf"
+    out_path = "ch3.json"
 
     lines = extract_lines(pdf_path)
 
-    question_lines = slice_from_marker(lines, START_QUESTIONS)
-    questions = parse_questions(question_lines, max_q=90)
+    # KHÔNG cắt theo marker nữa
+    questions = parse_questions(lines, max_q=90)
 
     answers = parse_answers(lines)
     result = build_json(questions, answers)
@@ -111,7 +125,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"✔ Parsed {len(result)} câu chương 2 (EXPECTED: 90)")
+    print(f"✔ Parsed {len(result)} câu chương 3 (EXPECTED: 90)")
     print(f"✔ Output: {out_path}")
 
 

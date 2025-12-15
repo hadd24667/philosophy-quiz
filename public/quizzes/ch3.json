@@ -2,27 +2,1081 @@
   {
     "id": "ch3_1",
     "chapter": "ch3",
-    "question": "Chương 3 trong giáo trình Triết học Mác – Lênin thường gắn với nội dung nào?",
+    "question": "Theo nội dung ôn tập, “VỀ CHỦ ĐỀ” Chương 3 thường hỏi tên tác phẩm nào?",
     "options": [
-      "Chủ nghĩa duy vật lịch sử",
-      "Chủ nghĩa duy vật biện chứng",
-      "Lý luận nhận thức",
-      "Logic hình thức"
+      "Tuyên ngôn Đảng Cộng sản",
+      "Tư bản (Quyển I)",
+      "Hệ tư tưởng Đức",
+      "Chống Đuy-rinh"
     ],
-    "answerIndex": 0,
-    "explanation": "Chương 3 thường là 'Chủ nghĩa duy vật lịch sử'."
+    "answerIndex": 0
   },
   {
     "id": "ch3_2",
     "chapter": "ch3",
-    "question": "Theo quan điểm duy vật lịch sử, nhân tố nào giữ vai trò quyết định trong sự phát triển xã hội?",
+    "question": "Tác phẩm ở Câu 1 gắn với cặp tác giả nào đúng nhất?",
     "options": [
-      "Ý thức xã hội",
-      "Tình cảm cá nhân",
-      "Phương thức sản xuất vật chất",
-      "Ngẫu nhiên lịch sử"
+      "V.I. Lênin – J. Stalin",
+      "C. Mác – Ph. Ăngghen",
+      "J.-J. Rousseau – Montesquieu",
+      "A. Smith – D. Ricardo"
     ],
-    "answerIndex": 2,
-    "explanation": "Phương thức sản xuất vật chất (LLSX + QHSX) giữ vai trò quyết định."
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_3",
+    "chapter": "ch3",
+    "question": "Mốc thời gian thường gắn với “Tuyên ngôn Đảng Cộng sản” là:",
+    "options": [
+      "1789",
+      "1845",
+      "1848",
+      "1917"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_4",
+    "chapter": "ch3",
+    "question": "Trong các cặp “tác phẩm – năm”, cặp nào đúng theo mốc phổ biến khi học phần này?",
+    "options": [
+      "Tuyên ngôn Đảng Cộng sản – 1847",
+      "Tư bản (Quyển I) – 1848",
+      "Sự khốn cùng của triết học – 1848",
+      "Tuyên ngôn Đảng Cộng sản – 1848"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch3_5",
+    "chapter": "ch3",
+    "question": "Nhận định nào gần nhất với vai trò lý luận của Tuyên ngôn Đảng Cộng sản?",
+    "options": [
+      "Tuyên bố về bản thể luận của triết học cổ điển Đức",
+      "Cương lĩnh/chương trình chính trị khái quát mục tiêu – lực lượng – phương pháp của phong trào vô sản",
+      "Tập hợp các định luật tự nhiên của xã hội học thực chứng",
+      "Tác phẩm chuyên khảo về logic hình thức"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_6",
+    "chapter": "ch3",
+    "question": "Luận điểm “đánh đố” hay gặp: nếu câu hỏi nêu “lịch sử xã hội có giai cấp là lịch sử…”, cụm đúng là:",
+    "options": [
+      "hợp tác giai cấp",
+      "cân bằng giai cấp",
+      "đấu tranh giai cấp",
+      "phân công lao động"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_7",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “chủ thể có sứ mệnh lịch sử” mà Tuyên ngôn nhấn mạnh, lựa chọn hợp lý nhất là:",
+    "options": [
+      "giai cấp nông dân",
+      "giai cấp tư sản",
+      "giai cấp vô sản",
+      "tầng lớp quý tộc"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_8",
+    "chapter": "ch3",
+    "question": "Trong chủ nghĩa duy vật lịch sử, “phương thức sản xuất” nên hiểu đúng nhất là:",
+    "options": [
+      "chỉ là kỹ thuật – máy móc của thời đại",
+      "chỉ là quan hệ sở hữu tư liệu sản xuất",
+      "cách con người đồng thời tác động vào tự nhiên và quan hệ với nhau để tạo ra của cải vật chất",
+      "tổng hợp mọi hình thái ý thức xã hội"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_9",
+    "chapter": "ch3",
+    "question": "Cấu trúc “song trùng” của sản xuất vật chất xã hội gồm:",
+    "options": [
+      "quan hệ người–người và quan hệ người–tự nhiên",
+      "quan hệ người–nhà nước và quan hệ người–tôn giáo",
+      "quan hệ pháp luật và quan hệ đạo đức",
+      "quan hệ cá nhân–cộng đồng và quan hệ cá nhân–cá nhân"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_10",
+    "chapter": "ch3",
+    "question": "Lực lượng sản xuất (LLSX) được hiểu đúng nhất là:",
+    "options": [
+      "hệ thống các thiết chế chính trị điều hành xã hội",
+      "sự kết hợp giữa người lao động với tư liệu sản xuất tạo ra sức sản xuất",
+      "toàn bộ các quan hệ pháp luật trong xã hội",
+      "tổng thể phong tục – tập quán của cộng đồng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_11",
+    "chapter": "ch3",
+    "question": "Trong LLSX, “mặt kinh tế–kỹ thuật” thường gắn với:",
+    "options": [
+      "người lao động",
+      "tư liệu sản xuất",
+      "hệ tư tưởng xã hội",
+      "thiết chế nhà nước"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_12",
+    "chapter": "ch3",
+    "question": "Trong LLSX, “mặt kinh tế–xã hội” thường gắn với:",
+    "options": [
+      "người lao động",
+      "công cụ lao động (máy móc)",
+      "tài nguyên thiên nhiên",
+      "quan hệ phân phối"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_13",
+    "chapter": "ch3",
+    "question": "Chọn phương án không thuộc “tư liệu sản xuất” theo cách hiểu chuẩn:",
+    "options": [
+      "đối tượng lao động",
+      "tư liệu lao động",
+      "người lao động",
+      "công cụ lao động"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_14",
+    "chapter": "ch3",
+    "question": "Khi đề cho ví dụ “AI/robot thay thế nhiều công việc; pháp luật lao động chưa kịp điều chỉnh”, mâu thuẫn gốc dễ được hỏi là:",
+    "options": [
+      "mâu thuẫn giữa các hình thái ý thức xã hội",
+      "mâu thuẫn giữa LLSX phát triển và QHSX trở thành rào cản",
+      "mâu thuẫn giữa đạo đức và tôn giáo",
+      "mâu thuẫn giữa tâm lý xã hội và hệ tư tưởng xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_15",
+    "chapter": "ch3",
+    "question": "Quan hệ sản xuất (QHSX) thường được phân tích theo 3 mặt cơ bản:",
+    "options": [
+      "sở hữu – tổ chức quản lý – phân phối",
+      "chính trị – pháp quyền – đạo đức",
+      "gia đình – dân tộc – tôn giáo",
+      "phong tục – tập quán – truyền thống"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_16",
+    "chapter": "ch3",
+    "question": "Nhận định nào đúng hơn về “quy luật phù hợp” giữa QHSX và LLSX?",
+    "options": [
+      "QHSX luôn quyết định tuyệt đối LLSX",
+      "LLSX phát triển đến mức nhất định đòi hỏi QHSX tương ứng; QHSX lạc hậu sẽ kìm hãm LLSX",
+      "QHSX và LLSX không có liên hệ tất yếu",
+      "QHSX chỉ thay đổi khi ý thức xã hội thay đổi trước"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_17",
+    "chapter": "ch3",
+    "question": "Nếu câu hỏi “đâu là yếu tố động nhất, cách mạng nhất trong LLSX”, đáp án hay đúng là:",
+    "options": [
+      "công cụ lao động",
+      "tập quán lao động",
+      "truyền thống sản xuất",
+      "luật pháp"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_18",
+    "chapter": "ch3",
+    "question": "Trong mối quan hệ LLSX–QHSX, phát biểu nào dễ “gây nhầm” nhưng sai?",
+    "options": [
+      "QHSX có thể tác động trở lại LLSX theo hướng thúc đẩy hoặc kìm hãm",
+      "LLSX quyết định sự hình thành và biến đổi QHSX xét đến cùng",
+      "QHSX không bao giờ trở thành “xiềng xích” đối với LLSX",
+      "Khi QHSX không phù hợp, có thể dẫn tới cải cách/cách mạng xã hội"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_19",
+    "chapter": "ch3",
+    "question": "Đề hỏi: “Cái nào là ‘cơ sở, nền tảng’ của vận động phát triển xã hội trong học thuyết HTKT–XH?”",
+    "options": [
+      "sản xuất vật chất",
+      "ý thức triết học",
+      "ý thức pháp quyền",
+      "nghệ thuật"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_20",
+    "chapter": "ch3",
+    "question": "Nhận định nào phù hợp nhất với ý: “Muốn ‘làm ra lịch sử’ trước hết phải…” (ý thường trích trong slide)",
+    "options": [
+      "xây dựng nhà nước trước",
+      "có khả năng sống: tạo ra tư liệu để thỏa mãn nhu cầu vật chất cơ bản",
+      "hình thành hệ tư tưởng trước",
+      "thống nhất tôn giáo trước"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_21",
+    "chapter": "ch3",
+    "question": "“Cơ sở hạ tầng” (CSHT) trong triết học Mác–Lênin nên hiểu là:",
+    "options": [
+      "toàn bộ tư tưởng – quan điểm của xã hội",
+      "tổng thể QHSX hợp thành cơ cấu kinh tế của xã hội",
+      "hệ thống đảng phái – nhà nước – pháp luật",
+      "toàn bộ dân cư và cơ cấu dân số"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_22",
+    "chapter": "ch3",
+    "question": "“Kiến trúc thượng tầng” (KTTT) bao gồm chủ yếu:",
+    "options": [
+      "các QHSX và lực lượng sản xuất",
+      "các thiết chế chính trị – pháp luật và các hình thái ý thức xã hội tương ứng",
+      "toàn bộ công cụ lao động",
+      "toàn bộ tài nguyên thiên nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_23",
+    "chapter": "ch3",
+    "question": "Phát biểu nào sát nhất: “CSHT quyết định KTTT” nghĩa là:",
+    "options": [
+      "mọi yếu tố tinh thần đều do chính trị tạo ra",
+      "quan hệ vật chất quyết định quan hệ tinh thần; tất yếu kinh tế xét đến cùng quyết định tất yếu chính trị–xã hội",
+      "pháp luật quyết định kinh tế",
+      "đạo đức quyết định cơ cấu kinh tế"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_24",
+    "chapter": "ch3",
+    "question": "Một KTTT “phù hợp” với CSHT thường có tác dụng:",
+    "options": [
+      "làm mất vai trò của kinh tế",
+      "củng cố và bảo vệ CSHT tương ứng",
+      "thay thế hoàn toàn CSHT bằng ý chí",
+      "phủ định mọi hình thái ý thức xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_25",
+    "chapter": "ch3",
+    "question": "Tình huống: “Quan hệ sở hữu đã đổi mới mạnh, nhưng bộ máy quản lý – pháp luật vẫn theo mô hình cũ.” Cách diễn đạt đúng nhất:",
+    "options": [
+      "KTTT lạc hậu tương đối so với CSHT",
+      "CSHT lạc hậu tương đối so với KTTT",
+      "LLSX lạc hậu so với QHSX",
+      "Ý thức xã hội luôn vượt trước tồn tại xã hội"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_26",
+    "chapter": "ch3",
+    "question": "Khi đề hỏi: “Trong KTTT, yếu tố giữ vai trò trung tâm (đặc biệt trong xã hội có giai cấp) là…”, chọn đáp án hợp lý nhất:",
+    "options": [
+      "nghệ thuật",
+      "tôn giáo",
+      "chính trị (nhà nước, đảng phái…)",
+      "tâm lý xã hội"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_27",
+    "chapter": "ch3",
+    "question": "Chọn nhận định sai:",
+    "options": [
+      "CSHT có thể nhiều thành phần, không đồng nhất tuyệt đối",
+      "KTTT có tính độc lập tương đối, có thể tác động trở lại CSHT",
+      "KTTT không bao giờ bị CSHT quy định",
+      "Khi CSHT biến đổi căn bản, sớm hay muộn KTTT cũng biến đổi tương ứng"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_28",
+    "chapter": "ch3",
+    "question": "“Hình thái kinh tế – xã hội” (HTKT–XH) được định nghĩa đúng nhất là:",
+    "options": [
+      "một giai đoạn văn minh theo “làn sóng” kỹ thuật",
+      "xã hội ở nấc thang lịch sử nhất định với QHSX đặc trưng phù hợp trình độ LLSX và KTTT tương ứng",
+      "tổng thể các hình thái ý thức xã hội",
+      "tổng thể các phát minh khoa học"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_29",
+    "chapter": "ch3",
+    "question": "Trong kết cấu HTKT–XH, bộ ba cơ bản nhất là:",
+    "options": [
+      "LLSX – QHSX – KTTT",
+      "CSHT – dân tộc – tôn giáo",
+      "nhà nước – đảng phái – pháp luật",
+      "đạo đức – nghệ thuật – triết học"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_30",
+    "chapter": "ch3",
+    "question": "Nếu đề cho 4 phương án về “tiêu chí phân biệt các HTKT–XH”, tiêu chí “xương sống” nhất thường là:",
+    "options": [
+      "hình thức nhà nước",
+      "kiểu QHSX thống trị",
+      "phong cách nghệ thuật",
+      "tôn giáo chủ đạo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_31",
+    "chapter": "ch3",
+    "question": "Luận điểm “Sự phát triển các HTKT–XH là một quá trình lịch sử – tự nhiên” nhằm nhấn mạnh:",
+    "options": [
+      "lịch sử vận động hoàn toàn ngẫu nhiên",
+      "lịch sử phụ thuộc duy nhất vào lãnh tụ",
+      "lịch sử có tính quy luật khách quan như một quá trình tự nhiên (nhưng thông qua hoạt động con người)",
+      "lịch sử chỉ là sự thay đổi của ý niệm"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_32",
+    "chapter": "ch3",
+    "question": "Chọn nhận định đúng hơn về “bỏ qua chế độ TBCN” (hay gặp ở phần vận dụng VN):",
+    "options": [
+      "là phủ định sạch mọi thành tựu của TBCN",
+      "là rút ngắn con đường phát triển, tiếp thu thành tựu phù hợp, không trải qua việc xác lập địa vị thống trị của QHSX TBCN",
+      "là quay lại HTKT–XH phong kiến",
+      "là phủ định vai trò của LLSX hiện đại"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_33",
+    "chapter": "ch3",
+    "question": "Một câu “gài bẫy”: Nếu LLSX thay đổi rất nhanh, nhưng QHSX điều chỉnh quá nhanh theo ý chí, bỏ qua điều kiện thực tế, dễ rơi vào:",
+    "options": [
+      "chủ nghĩa duy vật tầm thường",
+      "chủ quan duy ý chí",
+      "thuyết bất khả tri",
+      "chủ nghĩa hoài nghi"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_34",
+    "chapter": "ch3",
+    "question": "Trong phân tích HTKT–XH, điều nào sau đây không phải là “động lực cơ bản” theo logic Mác-xít?",
+    "options": [
+      "mâu thuẫn giữa LLSX và QHSX",
+      "đấu tranh giai cấp (trong xã hội có giai cấp)",
+      "phát triển khoa học – công nghệ (như một nhân tố của LLSX)",
+      "sự “tự sinh ra” của tư tưởng thuần túy không gắn tồn tại xã hội"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch3_35",
+    "chapter": "ch3",
+    "question": "Đề cho: “Cải cách thể chế để khơi thông nguồn lực, thúc đẩy đổi mới sáng tạo.” Nếu hỏi “đang tác động vào khâu nào để tác động trở lại phát triển kinh tế?”, chọn hợp lý nhất:",
+    "options": [
+      "tác động vào KTTT để tạo điều kiện cho CSHT/LLSX phát triển",
+      "tác động vào tâm lý xã hội để thay thế CSHT",
+      "tác động vào tôn giáo để tạo LLSX",
+      "tác động vào nghệ thuật để thay đổi QHSX ngay lập tức"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_36",
+    "chapter": "ch3",
+    "question": "Cặp phạm trù nào là “trục” của Mục I (theo trọng tâm ôn tập)?",
+    "options": [
+      "vật chất – ý thức",
+      "LLSX – QHSX",
+      "khả năng – hiện thực",
+      "nội dung – hình thức"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_37",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi: “Khi QHSX phù hợp LLSX”, hệ quả thường đúng nhất là:",
+    "options": [
+      "LLSX dừng phát triển để ổn định xã hội",
+      "giải phóng và thúc đẩy LLSX phát triển",
+      "KTTT mất vai trò",
+      "xã hội mất mâu thuẫn hoàn toàn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_38",
+    "chapter": "ch3",
+    "question": "Phân biệt “CSHT” với “QHSX”: nhận định đúng hơn là:",
+    "options": [
+      "CSHT = một QHSX duy nhất",
+      "CSHT là toàn bộ QHSX (thống trị + tàn dư + mầm mống), còn QHSX là quan hệ kinh tế cụ thể giữa người–người trong sản xuất",
+      "CSHT thuộc về ý thức xã hội",
+      "QHSX thuộc về KTTT"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_39",
+    "chapter": "ch3",
+    "question": "Trong kết cấu CSHT nhiều thành phần, yếu tố “quy định tính chất” của CSHT thường là:",
+    "options": [
+      "QHSX thống trị",
+      "QHSX tàn dư",
+      "QHSX mầm mống",
+      "phong tục tập quán"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_40",
+    "chapter": "ch3",
+    "question": "Khi đề hỏi: “KTTT ‘tương ứng’ với CSHT nghĩa là gì?”, chọn đúng nhất:",
+    "options": [
+      "mọi yếu tố KTTT giống hệt nhau ở mọi xã hội",
+      "KTTT phản ánh và phục vụ việc củng cố CSHT nhất định, mang dấu ấn kiểu QHSX thống trị",
+      "KTTT tồn tại độc lập hoàn toàn",
+      "KTTT chỉ gồm khoa học"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_41",
+    "chapter": "ch3",
+    "question": "Chọn ví dụ thuộc KTTT rõ nhất:",
+    "options": [
+      "quan hệ sở hữu ruộng đất",
+      "dây chuyền sản xuất tự động",
+      "hệ thống pháp luật về quyền sở hữu",
+      "trình độ tay nghề lao động"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_42",
+    "chapter": "ch3",
+    "question": "Chọn ví dụ thuộc CSHT rõ nhất:",
+    "options": [
+      "Hiến pháp và bộ máy nhà nước",
+      "hệ thống QHSX trong nền kinh tế",
+      "đạo đức và tôn giáo",
+      "nghệ thuật và triết học"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_43",
+    "chapter": "ch3",
+    "question": "“Tồn tại xã hội” thường bao gồm (chọn đáp án hợp lý nhất):",
+    "options": [
+      "toàn bộ đời sống tinh thần",
+      "phương thức sản xuất vật chất và các điều kiện sinh hoạt vật chất của xã hội",
+      "chỉ khoa học và triết học",
+      "chỉ tâm lý xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_44",
+    "chapter": "ch3",
+    "question": "“Ý thức xã hội” là:",
+    "options": [
+      "sự tồn tại vật chất của xã hội",
+      "mặt tinh thần của đời sống xã hội (xã hội tự nhận thức về mình và hiện thực xung quanh)",
+      "chỉ là ý thức cá nhân cộng lại",
+      "chỉ là pháp luật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_45",
+    "chapter": "ch3",
+    "question": "Kết cấu ý thức xã hội (cặp đúng) là:",
+    "options": [
+      "chính trị xã hội – kinh tế xã hội",
+      "tâm lý xã hội – hệ tư tưởng xã hội",
+      "đạo đức – tôn giáo",
+      "khoa học – nghệ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_46",
+    "chapter": "ch3",
+    "question": "Tính “độc lập tương đối” của ý thức xã hội thể hiện ở khả năng nào?",
+    "options": [
+      "luôn đi sau, không bao giờ tác động trở lại",
+      "có thể tác động trở lại tồn tại xã hội, thậm chí có thể “vượt trước” trong điều kiện nhất định",
+      "luôn quyết định tồn tại xã hội",
+      "tồn tại tách rời khỏi cơ sở kinh tế"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_47",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi: “Vì sao có hiện tượng ý thức xã hội lạc hậu hơn tồn tại xã hội?”, lựa chọn hợp lý nhất:",
+    "options": [
+      "vì ý thức không phản ánh hiện thực",
+      "do quán tính tâm lý xã hội, truyền thống, tập quán… còn tồn tại dù điều kiện vật chất đã đổi",
+      "vì khoa học luôn sai",
+      "vì chính trị cấm thay đổi ý thức"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_48",
+    "chapter": "ch3",
+    "question": "Ví dụ “các giá trị ‘trọng nam khinh nữ’ còn dai dẳng dù kinh tế – pháp luật đã thay đổi” minh họa cho:",
+    "options": [
+      "ý thức xã hội vượt trước tồn tại xã hội",
+      "ý thức xã hội lạc hậu hơn tồn tại xã hội",
+      "CSHT quyết định KTTT một chiều tuyệt đối",
+      "LLSX quyết định ý thức xã hội trực tiếp từng ngày"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_49",
+    "chapter": "ch3",
+    "question": "Ví dụ “tư tưởng cải cách, chiến lược phát triển xanh đi trước và định hướng thay đổi chính sách” minh họa cho:",
+    "options": [
+      "ý thức xã hội có thể vượt trước tồn tại xã hội",
+      "ý thức xã hội không thể tác động trở lại",
+      "ý thức xã hội luôn lạc hậu",
+      "tồn tại xã hội không quyết định ý thức xã hội"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_50",
+    "chapter": "ch3",
+    "question": "Đề “gài”: chọn nhận định đúng nhất về mối quan hệ tồn tại xã hội – ý thức xã hội:",
+    "options": [
+      "ý thức quyết định đời sống",
+      "đời sống quyết định ý thức, nhưng ý thức có tính độc lập tương đối và tác động trở lại đời sống",
+      "ý thức và đời sống không liên hệ",
+      "ý thức quyết định kinh tế xét đến cùng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_51",
+    "chapter": "ch3",
+    "question": "Khi đề hỏi “tại sao học thuyết HTKT–XH là phương pháp luận khoa học để nhận thức – cải tạo xã hội?”, ý đúng nhất là:",
+    "options": [
+      "vì nó thay thế mọi khoa học khác",
+      "vì nó chỉ ra quy luật vận động xã hội dựa trên sản xuất vật chất và các mối quan hệ cơ bản",
+      "vì nó phủ nhận vai trò của con người",
+      "vì nó đồng nhất lịch sử với ý chí cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_52",
+    "chapter": "ch3",
+    "question": "Trong tiếp cận Mác-xít, nếu chỉ dùng “các làn sóng văn minh” để thay thế HTKT–XH, dễ mắc sai lầm nào?",
+    "options": [
+      "tuyệt đối hóa LLSX (kỹ thuật), xem nhẹ QHSX và KTTT",
+      "tuyệt đối hóa đạo đức",
+      "tuyệt đối hóa tôn giáo",
+      "tuyệt đối hóa nghệ thuật"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_53",
+    "chapter": "ch3",
+    "question": "Chọn tình huống phản ánh “KTTT tác động trở lại CSHT” rõ nhất:",
+    "options": [
+      "máy móc mới làm tăng năng suất",
+      "luật cạnh tranh, luật sở hữu trí tuệ tạo khung cho đổi mới và vận hành thị trường",
+      "đất đai màu mỡ làm tăng sản lượng",
+      "tay nghề công nhân nâng cao do đào tạo nội bộ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_54",
+    "chapter": "ch3",
+    "question": "“Cách mạng xã hội” (nghĩa hẹp) thường được hiểu là:",
+    "options": [
+      "thay đổi nhỏ trong phong tục",
+      "thay đổi căn bản về chất trong lĩnh vực chính trị – xã hội để thay thế CSHT/KTTT cũ bằng cái mới",
+      "tăng trưởng GDP",
+      "đổi mới công nghệ trong nhà máy"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_55",
+    "chapter": "ch3",
+    "question": "Nguồn gốc sâu xa của cách mạng xã hội theo logic duy vật lịch sử thường là:",
+    "options": [
+      "xung đột tôn giáo",
+      "mâu thuẫn giữa LLSX phát triển với QHSX lỗi thời cản trở",
+      "mâu thuẫn giữa các trường phái triết học",
+      "cạnh tranh giữa các cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_56",
+    "chapter": "ch3",
+    "question": "“Giai cấp” theo cách hiểu mác-xít gắn trực tiếp nhất với tiêu chí nào?",
+    "options": [
+      "nơi cư trú (thành thị/nông thôn)",
+      "vị trí trong hệ thống QHSX (đặc biệt quan hệ sở hữu TLSX)",
+      "trình độ học vấn",
+      "độ tuổi"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_57",
+    "chapter": "ch3",
+    "question": "Nếu xã hội còn phân chia giai cấp, ý thức xã hội thường có đặc điểm nào?",
+    "options": [
+      "trung tính hoàn toàn",
+      "nhất định mang tính giai cấp",
+      "chỉ mang tính dân tộc",
+      "chỉ mang tính cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_58",
+    "chapter": "ch3",
+    "question": "Đề hỏi “nhà nước” trong xã hội có giai cấp chủ yếu thuộc về:",
+    "options": [
+      "CSHT",
+      "KTTT",
+      "LLSX",
+      "lực lượng tự nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_59",
+    "chapter": "ch3",
+    "question": "Cặp đúng nhất khi phân loại “hình thái ý thức xã hội” trong giáo trình/slide:",
+    "options": [
+      "chính trị, pháp quyền, đạo đức, nghệ thuật (thẩm mỹ), tôn giáo, khoa học, triết học",
+      "chỉ chính trị và pháp luật",
+      "chỉ đạo đức và tôn giáo",
+      "chỉ khoa học và triết học"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_60",
+    "chapter": "ch3",
+    "question": "Nếu đề cho: “Một chính sách giáo dục – khoa học nhằm nâng chất lượng nhân lực”, xét theo cấu trúc, tác động này gần nhất là:",
+    "options": [
+      "tác động trực tiếp vào QHSX mà không qua trung gian",
+      "tác động vào KTTT (giáo dục/khoa học) để thúc đẩy LLSX (nhân lực, tri thức)",
+      "tác động vào CSHT bằng biện pháp thuần túy tinh thần",
+      "tác động vào phong tục để đổi QHSX ngay"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_61",
+    "chapter": "ch3",
+    "question": "“Quần chúng nhân dân là chủ thể sáng tạo lịch sử” được hiểu đúng nhất là:",
+    "options": [
+      "mọi thành tựu đều do bản năng tự nhiên",
+      "hoạt động thực tiễn của đông đảo nhân dân là lực lượng cơ bản tạo ra của cải và giá trị tinh thần, thúc đẩy biến đổi xã hội",
+      "chỉ lãnh tụ tạo ra lịch sử",
+      "lịch sử là ngẫu nhiên"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_62",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “vai trò cá nhân trong lịch sử” theo lập trường duy vật lịch sử, chọn đúng nhất:",
+    "options": [
+      "cá nhân quyết định tuyệt đối mọi biến đổi",
+      "cá nhân không có vai trò gì",
+      "cá nhân có vai trò quan trọng nhưng bị quy định bởi điều kiện khách quan và chỉ phát huy qua phong trào/quần chúng",
+      "cá nhân quyết định lịch sử bằng ý chí thuần túy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_63",
+    "chapter": "ch3",
+    "question": "“Con người là tổng hòa các quan hệ xã hội” nhằm nhấn mạnh điều gì?",
+    "options": [
+      "phủ nhận mặt sinh học",
+      "bản chất con người chủ yếu được hình thành trong hệ thống quan hệ xã hội – lịch sử cụ thể",
+      "con người chỉ là sản phẩm tự nhiên",
+      "con người không thể cải tạo xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_64",
+    "chapter": "ch3",
+    "question": "Một câu dễ nhầm: “LLSX quyết định QHSX” nên hiểu đúng là:",
+    "options": [
+      "LLSX quyết định trực tiếp từng quy định pháp luật",
+      "LLSX, xét đến cùng, quyết định sự hình thành – biến đổi QHSX (thông qua mâu thuẫn và đấu tranh xã hội)",
+      "LLSX quyết định đạo đức",
+      "LLSX quyết định tôn giáo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_65",
+    "chapter": "ch3",
+    "question": "Trường hợp nào là dấu hiệu QHSX trở thành “xiềng xích” của LLSX?",
+    "options": [
+      "năng suất tăng nhưng phân phối công bằng",
+      "đổi mới công nghệ nhưng cơ chế sở hữu/quản lý cứng nhắc khiến nguồn lực không được giải phóng",
+      "pháp luật hỗ trợ đổi mới",
+      "đào tạo nhân lực tăng"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_66",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “tiến bộ xã hội” theo quan điểm duy vật lịch sử, thước đo sâu nhất thường gắn với:",
+    "options": [
+      "số lượng lễ hội",
+      "mức phát triển của LLSX và mức độ giải phóng con người (thông qua QHSX/KTTT phù hợp)",
+      "số lượng tác phẩm nghệ thuật",
+      "mức độ sùng đạo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_67",
+    "chapter": "ch3",
+    "question": "Câu “gài” về quan hệ CSHT–KTTT: phương án sai là:",
+    "options": [
+      "CSHT quyết định nguồn gốc và kiểu KTTT",
+      "KTTT có thể tác động trở lại CSHT",
+      "KTTT luôn biến đổi nhanh hơn CSHT",
+      "sự biến đổi CSHT thường kéo theo biến đổi KTTT"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_68",
+    "chapter": "ch3",
+    "question": "Trong xã hội có đối kháng giai cấp, tính chất của KTTT thường:",
+    "options": [
+      "phi giai cấp",
+      "mang tính giai cấp tương ứng CSHT",
+      "chỉ mang tính dân tộc",
+      "chỉ mang tính cá nhân"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_69",
+    "chapter": "ch3",
+    "question": "Một đề kiểu thực tế: “Kinh tế nền tảng số phát triển, nhưng quy định bảo vệ dữ liệu cá nhân yếu.” Nếu hỏi “điểm nghẽn chủ yếu đang nằm ở đâu?”, đáp án hợp lý nhất:",
+    "options": [
+      "LLSX thiếu công cụ lao động",
+      "KTTT (pháp luật/thiết chế quản lý) chưa theo kịp CSHT/LLSX",
+      "CSHT không thể thay đổi",
+      "ý thức xã hội không liên quan"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_70",
+    "chapter": "ch3",
+    "question": "Trong phân tích HTKT–XH, nếu QHSX thay đổi “đi trước” LLSX quá xa, rủi ro hay được hỏi là:",
+    "options": [
+      "làm LLSX tự phát triển nhanh hơn",
+      "gây bất ổn, duy ý chí, không phù hợp quy luật khách quan",
+      "xóa mâu thuẫn xã hội hoàn toàn",
+      "làm KTTT biến mất"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_71",
+    "chapter": "ch3",
+    "question": "Nếu đề yêu cầu xác định “yếu tố phản ánh trực tiếp nhất CSHT trong KTTT”, thường là:",
+    "options": [
+      "nghệ thuật",
+      "pháp luật (đặc biệt quy định sở hữu, phân phối, quyền lợi…)",
+      "tôn giáo",
+      "truyền thuyết dân gian"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_72",
+    "chapter": "ch3",
+    "question": "“Tâm lý xã hội” khác “hệ tư tưởng xã hội” ở điểm nhấn nào?",
+    "options": [
+      "tâm lý xã hội mang tính tự phát, trực tiếp; hệ tư tưởng mang tính hệ thống, lý luận, do những lực lượng xã hội nhất định xây dựng",
+      "tâm lý xã hội luôn đúng; hệ tư tưởng luôn sai",
+      "tâm lý xã hội thuộc CSHT; hệ tư tưởng thuộc LLSX",
+      "hai cái hoàn toàn trùng nhau"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_73",
+    "chapter": "ch3",
+    "question": "Đề “đánh đố”: chọn nhận định đúng nhất về quan hệ giữa các hình thái ý thức xã hội:",
+    "options": [
+      "không bao giờ tác động lẫn nhau",
+      "có thể tác động lẫn nhau theo nhiều cách, nhưng rốt cuộc vẫn bị tồn tại xã hội quy định",
+      "triết học luôn quyết định chính trị",
+      "đạo đức luôn quyết định pháp luật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_74",
+    "chapter": "ch3",
+    "question": "“Ý thức xã hội vượt trước tồn tại xã hội” hiểu đúng nhất là:",
+    "options": [
+      "ý thức có thể dự báo, nêu mục tiêu/định hướng, thúc đẩy biến đổi khi có điều kiện chín muồi",
+      "ý thức muốn gì cũng thành hiện thực ngay",
+      "ý thức luôn đúng hơn thực tiễn",
+      "ý thức phủ định mọi điều kiện vật chất"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch3_75",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “vì sao nói HTKT–XH là quá trình lịch sử–tự nhiên”, ý đúng nhất là:",
+    "options": [
+      "vì con người không tham gia lịch sử",
+      "vì lịch sử có quy luật khách quan, nhưng được thực hiện thông qua hoạt động thực tiễn và đấu tranh xã hội của con người",
+      "vì lịch sử do số phận an bài",
+      "vì ý thức quyết định mọi thứ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_76",
+    "chapter": "ch3",
+    "question": "Chọn phương án mô tả đúng “một HTKT–XH cụ thể”:",
+    "options": [
+      "chỉ là nền văn minh nông nghiệp",
+      "chỉ là trình độ công cụ lao động",
+      "QHSX đặc trưng + LLSX tương ứng + KTTT tương ứng",
+      "chỉ là hệ tư tưởng thống trị"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_77",
+    "chapter": "ch3",
+    "question": "Đề cho 4 câu, hỏi câu nào đúng:",
+    "options": [
+      "KTTT quyết định CSHT theo nghĩa trực tiếp và tuyệt đối",
+      "CSHT và KTTT không có liên hệ",
+      "CSHT quyết định KTTT; KTTT tác động trở lại CSHT theo hướng củng cố hoặc phá vỡ",
+      "KTTT chỉ gồm khoa học tự nhiên"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_78",
+    "chapter": "ch3",
+    "question": "Một “con số” hay bị gài trong đề: kết cấu ý thức xã hội gồm mấy bộ phận lớn?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_79",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “LLSX gồm mấy yếu tố cơ bản nhất?”, chọn hợp lý nhất:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_80",
+    "chapter": "ch3",
+    "question": "Chọn mệnh đề đúng nhất về “điều kiện kinh tế giữ vai trò quyết định rốt cuộc”:",
+    "options": [
+      "phủ nhận hoàn toàn vai trò chính trị, tư tưởng",
+      "thừa nhận kinh tế quyết định xét đến cùng, nhưng chính trị – truyền thống – tư tưởng… vẫn có vai trò nhất định trong điều kiện cụ thể",
+      "cho rằng ý thức quyết định kinh tế",
+      "xem kinh tế chỉ là một hình thái ý thức"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_81",
+    "chapter": "ch3",
+    "question": "Đề “đánh bẫy”: nếu một xã hội thay đổi hiến pháp (KTTT) nhưng quan hệ sở hữu (CSHT/QHSX) gần như giữ nguyên, kết luận thận trọng nhất là:",
+    "options": [
+      "CSHT chắc chắn đã thay đổi tận gốc",
+      "biến đổi KTTT có thể chưa phản ánh biến đổi căn bản CSHT; cần xét mức độ tác động trở lại",
+      "lịch sử đã kết thúc",
+      "LLSX không cần xem xét"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_82",
+    "chapter": "ch3",
+    "question": "Khi đề yêu cầu “xác định yếu tố thuộc QHSX”, phương án đúng nhất là:",
+    "options": [
+      "trình độ tự động hóa",
+      "quan hệ phân phối sản phẩm",
+      "tay nghề công nhân",
+      "tài nguyên khoáng sản"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_83",
+    "chapter": "ch3",
+    "question": "Khi đề yêu cầu “xác định yếu tố thuộc LLSX”, phương án đúng nhất là:",
+    "options": [
+      "quan hệ sở hữu TLSX",
+      "cơ chế phân phối lợi nhuận",
+      "công cụ lao động và trình độ kỹ thuật sản xuất",
+      "thiết chế nhà nước"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_84",
+    "chapter": "ch3",
+    "question": "Trong xã hội có giai cấp, đấu tranh giai cấp không nên hiểu là:",
+    "options": [
+      "xung đột lợi ích kinh tế – chính trị giữa các giai cấp đối lập",
+      "một động lực quan trọng thúc đẩy biến đổi xã hội",
+      "mọi mâu thuẫn cá nhân nhỏ lẻ đều là đấu tranh giai cấp",
+      "gắn với địa vị trong QHSX"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_85",
+    "chapter": "ch3",
+    "question": "Một câu dễ nhầm: “KTTT có tính độc lập tương đối” không có nghĩa là:",
+    "options": [
+      "KTTT có thể lạc hậu hoặc vượt trước trong điều kiện nhất định",
+      "KTTT có thể tác động trở lại cơ sở kinh tế",
+      "KTTT hoàn toàn không bị CSHT quy định",
+      "các hình thái ý thức xã hội có thể tác động lẫn nhau"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch3_86",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi: “Trong cải cách xã hội, khâu nào thường được coi là ‘then chốt’ để giải phóng LLSX?”, phương án hay đúng nhất là:",
+    "options": [
+      "đổi quốc ca",
+      "điều chỉnh QHSX (đặc biệt sở hữu/ quản lý/ phân phối) cho phù hợp",
+      "đổi triết học chính thống",
+      "tăng nghi lễ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_87",
+    "chapter": "ch3",
+    "question": "Đề đưa: “Một quốc gia nhập khẩu công nghệ hiện đại (LLSX tăng), nhưng vẫn duy trì cơ chế phân phối cực kỳ bất hợp lý, làm giảm động lực lao động.” Hỏi: “tác động kìm hãm đang nằm ở đâu?”",
+    "options": [
+      "LLSX",
+      "QHSX (khâu phân phối)",
+      "tài nguyên thiên nhiên",
+      "nghệ thuật"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_88",
+    "chapter": "ch3",
+    "question": "Câu hỏi kiểu suy luận: “Nếu CSHT là cơ cấu kinh tế hiện thực, thì yếu tố nào trong KTTT thường được coi là công cụ tổ chức quyền lực để bảo vệ CSHT?”",
+    "options": [
+      "khoa học",
+      "nhà nước",
+      "nghệ thuật",
+      "tâm lý xã hội"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_89",
+    "chapter": "ch3",
+    "question": "Nếu đề hỏi “phân biệt ‘tiếp cận văn minh’ và ‘tiếp cận HTKT–XH’”, phát biểu đúng nhất là:",
+    "options": [
+      "hai cách tiếp cận hoàn toàn giống nhau",
+      "tiếp cận văn minh nhấn mạnh kỹ thuật – trí tuệ; nếu dùng để thay thế HTKT–XH sẽ dễ tuyệt đối hóa LLSX và xem nhẹ QHSX/KTTT",
+      "tiếp cận văn minh phủ nhận khoa học – công nghệ",
+      "tiếp cận HTKT–XH chỉ nói về văn hóa"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch3_90",
+    "chapter": "ch3",
+    "question": "Câu “mức khó”: Chọn nhận định đúng nhất về trật tự phân tích khi gặp một hiện tượng xã hội (ví dụ: khủng hoảng nhà ở, giá tăng, bất bình đẳng):",
+    "options": [
+      "bắt đầu từ triết học rồi suy ra kinh tế",
+      "bắt đầu từ đạo đức và tôn giáo",
+      "ưu tiên phân tích cơ sở kinh tế (CSHT: QHSX, lợi ích, phân phối…) và LLSX, rồi mới phân tích KTTT (chính sách, pháp luật, ý thức…) trong quan hệ tác động qua lại",
+      "bỏ qua cơ sở kinh tế vì chỉ là “vật chất” ĐÁP ÁN 1A 2B 3C 4D 5B 6C 7C 8C 9A 10B 11B 12A 13C 14B 15A 16B 17A 18C 19A 20B 21B 22B 23B 24B 25A 26C 27C 28B 29A 30B 31C 32B 33B 34D 35A 36B 37B 38B 39A 40B 41C 42B 43B 44B 45B 46B 47B 48B 49A 50B 51B 52A 53B 54B 55B 56B 57B 58B 59A 60B 61B 62C 63B 64B 65B 66B 67C 68B 69B 70B 71B 72A 73B 74A 75B 76C 77C 78B 79B 80B 81B 82B 83C 84C 85C 86B 87B 88B 89B 90C"
+    ],
+    "answerIndex": 2
   }
 ]
