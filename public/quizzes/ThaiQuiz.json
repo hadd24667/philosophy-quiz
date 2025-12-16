@@ -1,0 +1,410 @@
+[
+  {
+    "id": "ch2_216",
+    "chapter": "ch2",
+    "question": "Đâu không phải là câu trả lời của chủ nghĩa duy vật biện chứng về tính thống nhất vật chất của thế giới",
+    "options": [
+      "Chỉ có một thế giới duy nhất là thế giới vật chất.",
+      "Mọi bộ phận của thế giới vật chất đều liên hệ chuyển hoá lẫn nhau.",
+      "Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi.",
+      "Thế giới vật chất bao gồm những bộ phận riêng biệt nhau."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_217",
+    "chapter": "ch2",
+    "question": "Trường phái triết học phủ nhận sự tồn tại một thế giới duy nhất là thế giới vật chất?",
+    "options": [
+      "Chủ nghĩa duy vật biện chứng.",
+      "Chủ nghĩa duy vật siêu hình thế kỷ XVII - XVIII.",
+      "Chủ nghĩa duy tâm.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_218",
+    "chapter": "ch2",
+    "question": "Điều khẳng định sau đây là đúng hay sai: Chỉ có chủ nghĩa duy vật biện chứng mới cho rằng mọi bộ phận của thế giới vật chất đều có mối liên hệ chuyển hoá lẫn nhau một cách khách quan.",
+    "options": [
+      "Đúng",
+      "Sai",
+      "Không xác định",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_219",
+    "chapter": "ch2",
+    "question": "Không thừa nhận tính vô hạn và vô tận của thế giới vật chất có chứng minh được tính thống nhất vật chất của thế giới không?",
+    "options": [
+      "Có thể",
+      "Không thể",
+      "",
+      ""
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_220",
+    "chapter": "ch2",
+    "question": "Cho rằng có thế giới tinh thần tồn tại độc lập bên cạnh thế giới vật chất sẽ rơi vào quan điểm triết học nào?",
+    "options": [
+      "Chủ nghĩa duy tâm.",
+      "Chủ nghĩa duy vật biện chứng .",
+      "Chủ nghĩa duy vật siêu hình.",
+      "có thể a hoặc"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_233",
+    "chapter": "ch2",
+    "question": "Đỉnh cao nhất của tư tưởng duy vật cổ đại về vật chất là ở chỗ nào?",
+    "options": [
+      "ở quan niệm về lửa là bản nguyên của thế giới",
+      "ở thuyết nguyên tử của Lơ-xíp và Đê-mô-crít.",
+      "ở quan niệm về con số là bản nguyên của thế giới.",
+      ""
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_236",
+    "chapter": "ch2",
+    "question": "Phương pháp tư duy nào chi phối những hiểu biết triết học duy vật về vật chất ở thế kỷ XVII - XVIII?",
+    "options": [
+      "Phương pháp biện chứng duy tâm",
+      "Phương pháp biện chứng duy vật.",
+      "Phương pháp siêu hình máy móc.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_239",
+    "chapter": "ch2",
+    "question": "Đồng nhất vật chất với khối lượng đó là quan niệm về vật chất của ai và ở thời kỳ nào?",
+    "options": [
+      "Các nhà triết học duy vật thời kỳ cổ đại.",
+      "Các nhà triết học thời kỳ Phục hưng.",
+      "Các nhà khoa học tự nhiên thế kỷ XVII - XVIII.",
+      "Các nhà triết học duy vật biện chứng thời kỳ cổ đại."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_240",
+    "chapter": "ch2",
+    "question": "Coi vận động của vật chất chỉ là biểu hiện của vận động cơ học, đó là quan điểm về vận động và vật chất của ai?",
+    "options": [
+      "Các nhà triết học duy vật thời kỳ cổ đại.",
+      "Các nhà khoa học tự nhiên và triết học thế kỷ XVII - XVIII.",
+      "Các nhà triết học duy vật biện chứng hiện đại.",
+      "Các nhà triết học duy tâm thế kỷ XVII - XVIII."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_241",
+    "chapter": "ch2",
+    "question": "Những tài liệu nào ảnh hưởng trực tiếp đến quan niệm triết học về vật chất ở thế kỷ XVII - XVIII?",
+    "options": [
+      "Quan sát trực tiếp",
+      "Khoa học tự nhiên ở trình độ lý luận.",
+      "Khoa học tự nhiên thực nghiệm nhất là cơ học.",
+      "Khoa học xã hội ."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_242",
+    "chapter": "ch2",
+    "question": "Đồng nhất vật chất nói chung với một dạng cụ thể hoặc một thuộc tính cụ thể của vật chất, coi vật chất có giới hạn tột cùng, đó là đặc điểm chung của hệ thống triết học nào?",
+    "options": [
+      "Chủ nghĩa duy vật biện chứng.",
+      "Chủ nghĩa duy vật siêu hình thế kỷ XVII - XVIII.",
+      "Chủ nghĩa duy vật trước Mác.",
+      "Chủ nghĩa duy vật tự phát thời kỳ cổ đại."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_255",
+    "chapter": "ch2",
+    "question": "Định nghĩa về vật chất của Lênin được nêu trong tác phẩm nào?",
+    "options": [
+      "Biện chứng của tự nhiên",
+      "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán.",
+      "Bút ký triết học",
+      "Nhà nước và cách mạng."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_257",
+    "chapter": "ch2",
+    "question": "Thêm cụm từ thích hợp vào câu sau để được định nghĩa về vật chất của Lênin: Vật chất là ......(1) dùng để chỉ ....... (2).. được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ảnh và tồn tại không lệ thuộc vào cảm giác. a. 1- Vật thể, 2- hoạt động",
+    "options": [
+      "1- Phạm trù triết học, 2- Thực tại khách quan.",
+      "1- Phạm trù triết học, 2- Một vật thể",
+      "",
+      ""
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_258",
+    "chapter": "ch2",
+    "question": "Định nghĩa về vật chất của Lênin bao quát đặc tính quan trọng nhất của mọi dạng vật chất để phân biệt với ý thức, đó là đặc tính gì?",
+    "options": [
+      "Thực tại khách quan độc lập với ý thức của con người.",
+      "Vận động và biến đổi.",
+      "Có khối lượng và quảng tính.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_259",
+    "chapter": "ch2",
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, vật chất với tư cách là phạm trù triết học có đặc tính gì?",
+    "options": [
+      "Vô hạn, vô tận, vĩnh viễn tồn tại, độc lập với ý thức.",
+      "Có giới hạn, có sinh ra và có mất đi.",
+      "Vô hạn, vô tận, vĩnh viễn tồn tại.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_268",
+    "chapter": "ch2",
+    "question": "Trường phái triết học nào cho vận động bao gồm mọi sự biến đổi của vật chất, là phương thức tồn tại của vật chất.",
+    "options": [
+      "Chủ nghĩa duy vật siêu hình.",
+      "Chủ nghĩa duy vật biện chứng.",
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy tâm khách quan."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_269",
+    "chapter": "ch2",
+    "question": "Nếu cho rằng có vật chất không vận động và có vận động thuần tuý ngoài vật chất sẽ rơi vào lập trường triết học nào?",
+    "options": [
+      "Chủ nghĩa duy vật tự phát thời kỳ cổ đại.",
+      "Chủ nghĩa duy vật siêu hình thế kỷ XVII - XVIII.",
+      "Chủ nghĩa duy vật biện chứng.",
+      ""
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_270",
+    "chapter": "ch2",
+    "question": "Trường phái triết học nào cho không thể có vật chất không vận động và không thể có vận động ngoài vật chất.",
+    "options": [
+      "Chủ nghĩa duy vật tự phát thời kỳ cổ đại.",
+      "Chủ nghĩa duy vật siêu hình",
+      "Chủ nghĩa duy vật biện chứng.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_271",
+    "chapter": "ch2",
+    "question": "Đâu là quan niệm của chủ nghĩa duy vật biện chứng về vận động.",
+    "options": [
+      "Có vật chất không vận động.",
+      "Có vận động thuần tuý ngoài vật chất.",
+      "Không có vận động thuần tuý ngoài vật chất.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_272",
+    "chapter": "ch2",
+    "question": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng về vận động?",
+    "options": [
+      "Vận động là sự tự thân vận động của vật chất, không được sáng tạo ra và không mất đi.",
+      "Vận động là sự đẩy và hút của vật thể.",
+      "Vận động được sáng tạo ra và có thể mất đi.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_273",
+    "chapter": "ch2",
+    "question": "Ph. Ăngghen đã chia vận động làm mấy hình thức cơ bản: a. 4 hình thức c. 5 hình thức cơ bản.",
+    "options": [
+      "3 hình thức",
+      "",
+      "",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_274",
+    "chapter": "ch2",
+    "question": "Theo cách phân chia các hình thức vận động của Ăngghen, hình thức nào là thấp nhất?",
+    "options": [
+      "Cơ học",
+      "Vật lý",
+      "Hoá học",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_275",
+    "chapter": "ch2",
+    "question": "Theo cách phân chia các hình thức vận động của Ăngghen, hình thức nào là cao nhất và phức tạp nhất?",
+    "options": [
+      "Sinh học.",
+      "Hoá học.",
+      "Vận động xã hội.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_278",
+    "chapter": "ch2",
+    "question": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+    "options": [
+      "Không gian và thời gian là hình thức tồn tại của vật chất, không tách rời vật chất.",
+      "Không gian và thời gian phụ thuộc vào cảm giác của con người",
+      "Tồn tại không gian và thời gian thuần tuý ngoài vật chất.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_279",
+    "chapter": "ch2",
+    "question": "Trường phái triết học nào cho không gian và thời gian là do thói quen của con người quy định",
+    "options": [
+      "Chủ nghĩa duy vật siêu hình",
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy tâm khách quan."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_280",
+    "chapter": "ch2",
+    "question": "Khẳng định sau đây đúng hay sai: Quan điểm siêu hình cho có không gian thuần tuý tồn ngoài vật chất.",
+    "options": [
+      "Sai",
+      "Đúng.",
+      "",
+      ""
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_289",
+    "chapter": "ch2",
+    "question": "Đâu là quan niệm của chủ nghĩa duy vật biện chứng về nguồn gốc tự nhiên của ý thức?",
+    "options": [
+      "ý thức tồn tại trên cơ sở quá trình sinh lý của não người.",
+      "ý thức không đồng nhất với quá trình sinh lý của não người.",
+      "ý thức đồng nhất với quá trình sinh lý của não người.",
+      "Gồm a và b."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_294",
+    "chapter": "ch2",
+    "question": "Hình thức phản ánh đặc trưng của của thế giới vô cơ là gì?",
+    "options": [
+      "Phản ánh vật lý hoá học.",
+      "Phản ánh sinh học.",
+      "Phản ánh ý thức.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_295",
+    "chapter": "ch2",
+    "question": "Hình thức phản ánh đặc trưng của thế giới thực vật và động vật chưa có hệ thần kinh là gì?",
+    "options": [
+      "Phản ánh vật lý, hoá học.",
+      "Tính kích thích.",
+      "Tính cảm ứng",
+      "Tâm lý động vật."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ch2_296",
+    "chapter": "ch2",
+    "question": "Hình thức phản ánh đặc trưng của động vật có hệ thần kinh là gì?",
+    "options": [
+      "Tính kích thích.",
+      "Tâm lý động vật.",
+      "Tính cảm ứng.",
+      "các phản xạ."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_297",
+    "chapter": "ch2",
+    "question": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng vê nguồn gốc của ý thức?",
+    "options": [
+      "ý thức ra đời là kết quả quá trình phát triển lâu dài thuộc tính phản ánh của thế giới vật chất.",
+      "ý thức ra đời là kết quả sự tác động lẫn nhau giữa các sự vật vật chất.",
+      "ý thức ra đời là kết quả quá trình tiến hoá của hệ thần kinh.",
+      ""
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ch2_298",
+    "chapter": "ch2",
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng nguồn gốc tự nhiên của ý thức gồm những yếu tố nào?",
+    "options": [
+      "Bộ óc con người.",
+      "Thế giới bên ngoài tác động vào bộ óc.",
+      "Lao động của con người",
+      "Gồm a và b. e. Gồm cả a, b, và c."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ch2_299",
+    "chapter": "ch2",
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng điều kiện cần và đủ cho sự ra đời và phát triển ý thức là những điều kiện nào?",
+    "options": [
+      "Bộ óc con người và thế giới bên ngoài tác động vào bộ óc người",
+      "Lao động của con người và ngôn ngữ.",
+      "Gồm cả a, và b.",
+      ""
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ch2_300",
+    "chapter": "ch2",
+    "question": "Nguồn gốc xã hội của ý thức là yếu tố nào?",
+    "options": [
+      "Bộ óc con người.",
+      "Sự tác động của thế giới bên ngoài vào bộ óc con người.",
+      "Lao động và ngôn ngữ của con người.",
+      ""
+    ],
+    "answerIndex": 2
+  }
+]
